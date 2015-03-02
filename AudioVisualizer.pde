@@ -10,29 +10,30 @@ class AudioVisualizer {
 
   AudioVisualizer (Minim minim, String audioFile)
   {  
-    this.average = 0;
-    this.song = minim.loadFile(audioFile);
-    this.song.play();
-    this.fft = new FFT(song.bufferSize(), this.song.sampleRate());
+    average = 0;
+    song = minim.loadFile(audioFile);
+    song.play();
+    fft = new FFT(song.bufferSize(), this.song.sampleRate());
   } 
 
-  void update()
+  float update()
   { 
-    this.fft.forward(song.left);
+    fft.forward(song.left);
 
-    for (int i = 0; i < this.fft.specSize (); i++)
+    for (int i = 0; i < fft.specSize (); i++)
     {
-      // draw the line for frequency band i
-      this.average += this.fft.getBand(i);
+      average += fft.getBand(i);
     }
-    this.average /= this.fft.specSize();
-    this.average *= 100;
+    average /= fft.specSize();
+    average *= 100;
 
     stroke(0, 0, 0, 10);
 
-    line(this.x, height, this.x, height-this.average - this.y);
-    this.average =0;
-    this.x+=0.02;
+    //line(x, height, x, height - average - y);
+    this.average = 0;
+    //this.x += 0.02;
+    
+    return average;
   } 
 
   void stop()
