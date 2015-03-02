@@ -1,31 +1,19 @@
-import ddf.minim.*;
-import ddf.minim.signals.*;
-import ddf.minim.analysis.*;
-import ddf.minim.effects.*;
+
 
 class AudioVisualizer { 
 
-  Minim minim;
   AudioPlayer song;
   FFT fft;
   float x;
   float y;
   float average;
-  String audioFile;
 
-  AudioVisualizer (String audioFile2)
+  AudioVisualizer (Minim minim, String audioFile)
   {  
-    
-  println("test");
-    this.audioFile = audioFile2;
     this.average = 0;
-    this.minim = new Minim(this);
-    this.song = minim.loadFile(audioFile, 512);
+    this.song = minim.loadFile(audioFile);
     this.song.play();
     this.fft = new FFT(song.bufferSize(), this.song.sampleRate());
-    
-    
-  println("test");
   } 
 
   void update()
@@ -50,7 +38,6 @@ class AudioVisualizer {
   void stop()
   {
     song.close();
-    minim.stop();
   }
 } 
 
