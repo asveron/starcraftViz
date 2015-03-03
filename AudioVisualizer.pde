@@ -1,5 +1,3 @@
-
-
 class AudioVisualizer { 
 
   AudioPlayer song;
@@ -27,12 +25,6 @@ class AudioVisualizer {
     average /= fft.specSize();
     average *= 100;
 
-    stroke(0, 0, 0, 10);
-
-    //line(x, height, x, height - average - y);
-    this.average = 0;
-    //this.x += 0.02;
-    
     return average;
   } 
 

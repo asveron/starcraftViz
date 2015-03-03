@@ -1,26 +1,29 @@
 class Orbiter
 { 
   Vec2 center;
-  Vec2 perimeter;  
-  Vec2 distance;
+  Vec2 perimeter;
   
-  Orbiter (float x, float y)
+  color _color;
+  
+  
+  Orbiter (Vec2 globalCenter)
   {
-    center   = new Vec2(width/2,height/2);
-    perimeter = new Vec2(width/2,height/2 - 10);
+    center   = globalCenter;
+    perimeter = new Vec2(0,0);
   }
   
-  void orbit(float v)
+  void orbit(float v, float a)
   {
-
-    float s = sin( 1 * PI/180);
-    float c = cos( 1 * PI/180);
+    //_color = color(248, 255, 49, 10);
+    stroke(_color);
+    
+    perimeter.y -= v;
+    
+    float s = sin(a);
+    float c = cos(a);
     
     perimeter.x -= center.x;
     perimeter.y -= center.y;
-    
-    distance = minus(center, perimeter);
-    //distance.y += 100;
     
     // rotate point
     float xnew = perimeter.x * c - perimeter.y * s;
@@ -31,5 +34,8 @@ class Orbiter
     perimeter.y = ynew + center.y;
     
     line(center.x, center.y, perimeter.x, perimeter.y);
+    
+    perimeter.x = center.x;
+    perimeter.y = center.y;
   }
 } 
