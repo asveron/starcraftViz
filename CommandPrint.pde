@@ -9,12 +9,13 @@ class CommandPrint
   float averageX;
   float averageY;
   
+  ArrayList<String> commands = new ArrayList<String>();
   ArrayList<CameraStarInfo> stars = new ArrayList<CameraStarInfo>();
   
   CommandPrint (Vec2 centralPoint)
   {
-    cameraPositions = loadStrings("cameraPositions.txt");
-    time = 10;
+    cameraPositions = loadStrings("commandPrint.txt");
+    time = 60 * 10;
     this.centralPoint = centralPoint;
     
     averageX=0;
@@ -47,52 +48,39 @@ class CommandPrint
       }
       
       // Remove cameraupdate, \t, x, =
-      player[1] = player[1].substring(15, player[1].length());
-      
-      // Parse X position
-      String positionX[] = player[1].split(";",2);
-      
-      star.x = Float.parseFloat(positionX[0]);
-      
-      // Remove y=
-      positionX[1] = positionX[1].substring(3, positionX[1].length());
-      
-      // Parse Y position
-      star.y = Float.parseFloat(positionX[1]);
-      
-      averageX += star.x;
-      averageY += star.y;
+      String command = player[1].substring(4, player[1].length());
       
       stars.add(star);
+      println(command);
+      commands.add(command);
     }
-    
-    averageX /= cameraPositions.length;
-    averageY /= cameraPositions.length;
   }
   
-  void update()
+  void update(float a)
   {
     time++;
-    
+    translate(centralPoint.x,centralPoint.y);
+    pushMatrix();
+    rotate(a - 0.5*PI);
     CameraStarInfo currentStar = stars.get(starIndex);
-     // println(stars.get(starIndex).time);
-    
+    noFill();
+    if(currentStar.isLife)
+    {
+      fill(240,180,180,8);
+    }
+    else
+    {
+      fill(180,180,240,8);
+    }
     if(time/60 > currentStar.time)
     {
-      noFill();
-      if(currentStar.isLife)
-      {
-        stroke(240,130,130,40);
-      }
-      else
-      {
-        stroke(130,130,240,40);
-      }
-      ellipse(centralPoint.x + currentStar.x - averageX, centralPoint.y + currentStar.y - averageY, 10, 10);
+      text(commands.get(starIndex),0,0);
+      //rotate();
       starIndex++;
     }
+    popMatrix();
     
-    
+    translate(-centralPoint.x,-centralPoint.y);
   }
 } 
 

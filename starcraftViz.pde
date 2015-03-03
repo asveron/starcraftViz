@@ -13,12 +13,13 @@ Orbiter orbiterCircle;
 
 Vec2 globalCenter;
 
+CommandPrint commandPrint;
 
 CameraStars cameraStars;
 
 void setup()
 {
-  size(3200, 600);
+  size(1920, 600);
 
   minim = new Minim(this);
   audioVisualizer = new AudioVisualizer(minim, "wcs2014Final_G1.mp3");
@@ -26,20 +27,27 @@ void setup()
   globalCenter = new Vec2(200,height/2);
   
   orbiterSound = new Orbiter(globalCenter);
-  orbiterSound._color = color(248, 255, 49, 10);
+  orbiterSound._color = color(248, 255, 49, 7);
   
   orbiterCircle = new Orbiter(globalCenter);
-  orbiterCircle._color = color(0, 35, 255, 4);
+  orbiterCircle._color = color(0, 35, 255, 3);
   
   frameRate(60);
   background(0);
   
   cameraStars = new CameraStars(globalCenter);
+  
+  commandPrint = new CommandPrint(globalCenter);
 }
 
 void draw()
 {
+  
+  
   float v = audioVisualizer.update();
+  
+  commandPrint.update(a * PI/180);
+  
   orbiterSound.orbit(50 + v, a * PI/180);
   orbiterCircle.orbit(100 , a * PI/180);
   

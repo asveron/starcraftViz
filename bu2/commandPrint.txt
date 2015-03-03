@@ -1,0 +1,1770 @@
+I	00:00	MMA	Cmd	Train SCV
+I	00:00	MMA	Cmd	[Right click] ; target point: x=8.998, y=10.279, z=5.991
+I	00:00	Life	Cmd	Morph to Drone
+I	00:00	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:01	Life	Cmd	[Minimap] Scan Move; target point: x=29.674, y=22.140, z=4.991
+I	00:01	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:01	Life	Cmd	Scan Move; target point: x=31.102, y=12.478, z=4.979
+I	00:01	MMA	Cmd	[Right click] ; target point: x=11.175, y=7.995, z=5.995
+I	00:02	Life	Cmd	Scan Move; target point: x=32.305, y=12.727, z=5.286
+I	00:02	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:02	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:02	Life	Cmd	Scan Move; target point: x=33.141, y=12.575, z=5.991
+I	00:02	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:02	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:03	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:04	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:05	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:05	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:06	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:07	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:07	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:08	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:09	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:09	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:11	Life	Cmd	Morph to Drone
+I	00:12	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:12	MMA	Cmd	Train SCV
+I	00:12	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:12	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:12	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:12	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:16	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:16	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:16	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	00:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:17	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:18	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:18	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:18	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:20	MMA	Cmd	Train SCV
+I	00:20	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:20	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:20	Life	Cmd	Morph to Drone
+I	00:20	Life	Cmd	Morph to Drone
+I	00:20	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	00:20	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	00:21	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:21	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:21	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:21	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	00:21	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:22	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:23	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:23	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:23	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:23	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:24	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:24	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:24	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:24	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:24	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:24	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:25	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:25	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:25	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:26	Life	Cmd	Morph to Drone
+I	00:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:27	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1); target point: x=8.000, y=11.250, z=5.979
+I	00:27	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:27	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:27	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:28	Life	Cmd	[Right click] ; target unit: Drone (tag=21t; owner=Life); target point: x=56.533, y=71.329, z=5.995
+I	00:28	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	00:28	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:29	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:29	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:29	MMA	Cmd	Train SCV
+I	00:29	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:29	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	00:31	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:34	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:35	MMA	Cmd	[Right click] ; target point: x=20.685, y=12.405, z=5.875
+I	00:35	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:35	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:35	MMA	Cmd	[Right click] ; target point: x=9.329, y=8.604, z=5.995
+I	00:35	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:36	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:36	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:36	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:36	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:37	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:37	MMA	Cmd	[Right click] ; target point: x=23.501, y=12.946, z=4.941
+I	00:37	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:37	MMA	Cmd	[Right click] ; target point: x=22.221, y=13.036, z=4.986
+I	00:37	MMA	Cmd	[Right click] ; target point: x=20.761, y=12.335, z=5.838
+I	00:37	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:37	MMA	Cmd	[Right click] ; target point: x=20.010, y=12.154, z=5.948
+I	00:37	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:38	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=j5); target point: x=60.000, y=70.250, z=5.986
+I	00:38	MMA	Cmd	[Right click] ; target point: x=19.652, y=11.990, z=5.951
+I	00:38	MMA	Cmd	[Right click] ; target point: x=19.653, y=11.968, z=5.951
+I	00:39	MMA	Cmd	Build Supply Depot; target point: x=19.500, y=12.000, z=5.951
+I	00:39	MMA	Cmd	[Queued] [Right click] ; target point: x=20.245, y=12.881, z=5.945
+I	00:39	Life	Cmd	Morph to Overlord
+I	00:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:40	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:41	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:41	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:41	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:41	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:42	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:42	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:42	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:42	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:45	Life	Cmd	Mutate into Extractor; target unit: Cleaning Bot (tag=1b5); target point: x=60.250, y=66.750, z=5.958
+I	00:45	MMA	Cmd	Train SCV
+I	00:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:46	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:46	Life	Cmd	Morph to Drone
+I	00:47	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:47	Life	Cmd	Cancel
+I	00:47	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:47	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:47	MMA	Cmd	[Queued] [Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:48	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:48	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:48	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	00:49	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:49	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:49	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:50	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:50	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	00:50	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:51	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	00:51	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	00:51	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:53	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:53	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:53	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:53	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	00:53	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.690, y=59.253, z=4.995
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.682, y=59.235, z=4.995
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.682, y=59.235, z=4.995
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.682, y=59.235, z=4.995
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.697, y=59.244, z=4.995
+I	00:54	Life	Cmd	[Right click] ; target point: x=36.697, y=59.253, z=4.995
+I	00:55	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:55	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	00:57	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:57	Life	Cmd	Morph to Drone
+I	00:57	Life	Cmd	Morph to Drone
+I	00:58	MMA	Cmd	[Right click] ; target point: x=16.219, y=11.370, z=5.985
+I	00:58	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	00:58	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	00:58	MMA	Cmd	Train SCV
+I	00:58	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:59	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	00:59	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	00:59	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	00:59	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:00	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:00	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:00	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:01	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:01	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:01	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:01	MMA	Cmd	[Right click] ; target point: x=17.881, y=12.380, z=5.965
+I	01:01	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:01	MMA	Cmd	[Right click] ; target point: x=17.995, y=12.379, z=5.964
+I	01:02	MMA	Cmd	Lower
+I	01:02	MMA	Cmd	[Right click] ; target point: x=18.468, y=13.364, z=5.954
+I	01:02	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	01:02	MMA	Cmd	[Right click] ; target point: x=18.468, y=13.364, z=5.954
+I	01:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:03	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:04	MMA	Cmd	[Right click] ; target point: x=20.990, y=13.388, z=5.937
+I	01:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:04	MMA	Cmd	[Right click] ; target point: x=20.863, y=13.109, z=5.940
+I	01:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:04	MMA	Cmd	[Right click] ; target point: x=19.469, y=12.831, z=5.949
+I	01:04	MMA	Cmd	[Right click] ; target point: x=18.803, y=13.238, z=5.952
+I	01:04	MMA	Cmd	[Right click] ; target point: x=18.803, y=13.238, z=5.952
+I	01:04	MMA	Cmd	[Right click] ; target point: x=18.803, y=13.238, z=5.952
+I	01:04	MMA	Cmd	[Right click] ; target point: x=18.779, y=13.218, z=5.953
+I	01:04	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:05	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:05	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:05	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:06	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:06	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:06	Life	Cmd	Morph to Drone
+I	01:07	MMA	Cmd	Build Barracks; target point: x=18.750, y=13.250, z=5.953
+I	01:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	01:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:07	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:09	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:09	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:10	MMA	Cmd	[Right click] ; target point: x=6.761, y=13.473, z=5.948
+I	01:10	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:11	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ip); target point: x=57.500, y=71.750, z=5.995
+I	01:11	MMA	Cmd	[Right click] ; target unit: Cleaning Bot (tag=18h); target point: x=7.750, y=13.250, z=5.960
+I	01:11	MMA	Cmd	[Right click] ; target unit: Cleaning Bot (tag=18h); target point: x=7.750, y=13.250, z=5.960
+I	01:12	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	01:12	MMA	Cmd	[Right click] ; target unit: Cleaning Bot (tag=18h); target point: x=7.750, y=13.250, z=5.960
+I	01:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:13	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	01:14	MMA	Cmd	Build Refinery; target unit: Cleaning Bot (tag=18h); target point: x=7.750, y=13.250, z=5.960
+I	01:15	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	01:15	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:15	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:15	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:15	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:15	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:17	Life	Cmd	Morph to Drone
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=x); target point: x=8.000, y=11.750, z=5.976
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:18	MMA	Cmd	Train SCV
+I	01:18	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:19	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:20	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:21	Life	Cmd	[Right click] ; target point: x=58.752, y=67.052, z=5.974
+I	01:21	Life	Cmd	[Right click] ; target point: x=58.720, y=66.579, z=5.972
+I	01:21	Life	Cmd	[Right click] ; target point: x=58.713, y=66.367, z=5.971
+I	01:21	Life	Cmd	[Right click] ; target point: x=58.726, y=66.232, z=5.970
+I	01:22	MMA	Cmd	[Right click] ; target point: x=8.700, y=8.907, z=5.993
+I	01:22	MMA	Cmd	[Right click] ; target point: x=8.933, y=8.688, z=5.994
+I	01:22	Life	Cmd	Mutate into Spawning Pool; target point: x=58.750, y=66.250, z=5.970
+I	01:22	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	01:23	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	01:24	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:24	Life	Cmd	Scan Move; target point: x=35.929, y=55.121, z=4.949
+I	01:24	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:24	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:25	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	01:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:26	MMA	Cmd	Train SCV
+I	01:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:27	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:28	Life	Cmd	Morph to Drone
+I	01:28	Life	Cmd	Morph to Drone
+I	01:28	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:29	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:29	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:30	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:30	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:33	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:33	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=hd); target point: x=60.500, y=69.250, z=5.977
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:34	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	01:35	Life	Cmd	Scan Move; target point: x=35.547, y=55.138, z=4.946
+I	01:36	MMA	Cmd	[Right click] ; target unit: Refinery (tag=29t; owner=MMA); target point: x=7.750, y=13.250, z=5.960
+I	01:37	MMA	Cmd	[Right click] ; target unit: Refinery (tag=29t; owner=MMA); target point: x=7.750, y=13.250, z=5.960
+I	01:37	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:38	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:38	Life	Cmd	[Right click] ; target point: x=41.360, y=69.711, z=4.949
+I	01:39	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:39	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:39	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:40	Life	Cmd	[Right click] ; target point: x=41.538, y=68.602, z=4.956
+I	01:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:40	Life	Cmd	[Right click] ; target point: x=41.746, y=69.179, z=4.951
+I	01:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:40	Life	Cmd	[Right click] ; target point: x=41.712, y=69.249, z=4.951
+I	01:40	MMA	Cmd	Train SCV
+I	01:41	Life	Cmd	[Right click] ; target point: x=42.348, y=65.597, z=4.951
+I	01:41	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:41	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:41	Life	Cmd	Attack; target point: x=41.745, y=69.860, z=4.947
+I	01:42	Life	Cmd	Scan Move; target point: x=33.816, y=12.975, z=5.994
+I	01:44	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:44	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=i9); target point: x=56.500, y=71.750, z=5.994
+I	01:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:45	Life	Cmd	[Right click] ; target point: x=40.798, y=69.361, z=4.953
+I	01:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:45	Life	Cmd	[Right click] ; target point: x=40.948, y=69.558, z=4.951
+I	01:45	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	01:46	Life	Cmd	Scan Move; target point: x=35.612, y=54.807, z=4.937
+I	01:47	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:47	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:47	Life	Cmd	Attack; target point: x=39.488, y=70.009, z=4.952
+I	01:48	Life	Cmd	[Right click] ; target point: x=41.169, y=69.612, z=4.950
+I	01:48	Life	Cmd	Mutate into Hatchery; target point: x=41.250, y=69.750, z=4.949
+I	01:49	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=38.000, y=69.750, z=4.957
+I	01:49	Life	Cmd	[Right click] ; target point: x=42.047, y=66.490, z=4.958
+I	01:51	Life	Cmd	Morph to Drone
+I	01:51	Life	Cmd	Morph to Drone
+I	01:51	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:51	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:52	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:52	MMA	Cmd	[Right click] ; target point: x=22.323, y=11.724, z=5.346
+I	01:53	MMA	Cmd	[Right click] ; target point: x=22.390, y=11.668, z=5.319
+I	01:53	MMA	Cmd	[Right click] ; target point: x=23.857, y=10.544, z=4.938
+I	01:53	MMA	Cmd	[Right click] ; target point: x=23.857, y=10.544, z=4.938
+I	01:54	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=k1); target point: x=59.000, y=71.750, z=5.994
+I	01:54	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:54	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:55	MMA	Cmd	[Right click] ; target point: x=27.484, y=9.925, z=4.949
+I	01:55	MMA	Cmd	Upgrade to Orbital Command
+I	01:55	MMA	Cmd	[Right click] ; target point: x=26.157, y=9.900, z=4.945
+I	01:55	Life	Cmd	Scan Move; target point: x=35.197, y=54.769, z=4.932
+I	01:56	Life	Cmd	Scan Move; target point: x=35.678, y=54.404, z=4.898
+I	01:56	MMA	Cmd	[Right click] ; target point: x=25.390, y=10.097, z=4.943
+I	01:57	MMA	Cmd	[Right click] ; target point: x=25.391, y=10.116, z=4.943
+I	01:57	MMA	Cmd	[Right click] ; target point: x=25.535, y=10.032, z=4.943
+I	01:57	MMA	Cmd	[Right click] ; target point: x=25.535, y=10.032, z=4.943
+I	01:57	MMA	Cmd	[Right click] ; target point: x=25.510, y=10.004, z=4.943
+I	01:57	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	01:58	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=h); target point: x=7.500, y=10.750, z=5.979
+I	01:58	Life	Cmd	Morph to Overlord
+I	01:59	MMA	Cmd	Train Reaper
+I	01:59	MMA	Cmd	Train Reaper
+I	02:00	MMA	Cmd	[Right click] [Minimap] ; target point: x=56.465, y=66.791, z=5.987
+I	02:00	MMA	Cmd	[Right click] [Minimap] ; target point: x=56.465, y=66.791, z=5.987
+I	02:00	Life	Cmd	[Right click] ; target point: x=46.448, y=61.359, z=5.919
+I	02:01	Life	Cmd	[Right click] ; target point: x=61.343, y=52.299, z=3.827
+I	02:01	MMA	Cmd	[Right click] ; target point: x=17.536, y=11.076, z=5.968
+I	02:02	MMA	Cmd	[Right click] ; target point: x=20.936, y=12.080, z=5.730
+I	02:02	MMA	Cmd	[Right click] ; target point: x=20.942, y=12.557, z=5.847
+I	02:02	MMA	Cmd	Build Supply Depot; target point: x=21.000, y=13.500, z=5.935
+I	02:03	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=jl); target point: x=58.000, y=72.250, z=5.996
+I	02:03	MMA	Cmd	[Queued] [Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:04	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:05	MMA	Cmd	[Right click] [Minimap] ; target point: x=45.860, y=69.023, z=5.157
+I	02:05	Life	Cmd	Scan Move; target point: x=31.568, y=10.965, z=4.972
+I	02:05	MMA	Cmd	[Right click] [Minimap] ; target point: x=42.233, y=70.419, z=4.940
+I	02:06	MMA	Cmd	[Right click] ; target point: x=16.826, y=12.413, z=5.976
+I	02:06	MMA	Cmd	[Right click] ; target point: x=17.179, y=12.369, z=5.971
+I	02:06	MMA	Cmd	[Right click] [Minimap] ; target point: x=17.953, y=41.116, z=3.996
+I	02:07	MMA	Cmd	[Right click] ; target point: x=39.857, y=67.541, z=4.968
+I	02:07	MMA	Cmd	[Right click] ; target point: x=41.405, y=67.668, z=4.962
+I	02:08	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=jl); target point: x=58.000, y=72.250, z=5.996
+I	02:08	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=jl); target point: x=58.000, y=72.250, z=5.996
+I	02:08	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=jl); target point: x=58.000, y=72.250, z=5.996
+I	02:08	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=jl); target point: x=58.000, y=72.250, z=5.996
+I	02:09	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:09	Life	Cmd	Morph to Zergling
+I	02:10	Life	Cmd	[Right click] ; target point: x=49.139, y=48.563, z=3.998
+I	02:10	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:11	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:13	Life	Cmd	Birth Queen
+I	02:13	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:14	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:14	Life	Cmd	[Right click] [Minimap] ; target point: x=46.977, y=24.930, z=4.996
+I	02:15	Life	Cmd	[Right click] ; target point: x=45.040, y=62.945, z=4.993
+I	02:15	Life	Cmd	[Right click] ; target point: x=45.974, y=62.201, z=5.910
+I	02:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:16	Life	Cmd	Scan Move; target point: x=35.197, y=54.734, z=4.931
+I	02:16	Life	Cmd	Scan Move; target point: x=35.484, y=54.751, z=4.934
+I	02:16	Life	Cmd	Scan Move; target point: x=35.531, y=54.723, z=4.934
+I	02:16	Life	Cmd	Scan Move; target point: x=35.694, y=54.658, z=4.934
+I	02:16	Life	Cmd	Scan Move; target point: x=35.919, y=54.575, z=4.934
+I	02:17	Life	Cmd	Scan Move; target point: x=36.208, y=54.639, z=4.837
+I	02:17	Life	Cmd	Scan Move; target point: x=37.784, y=53.521, z=4.133
+I	02:17	Life	Cmd	Scan Move; target point: x=37.269, y=52.951, z=3.934
+I	02:18	Life	Cmd	Scan Move; target point: x=35.890, y=51.194, z=3.907
+I	02:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	02:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	02:18	Life	Cmd	Morph to Drone
+I	02:18	Life	Cmd	Scan Move; target point: x=35.889, y=51.173, z=3.907
+I	02:19	Life	Cmd	Scan Move; target point: x=35.865, y=51.072, z=3.908
+I	02:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:19	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:19	Life	Cmd	Scan Move; target point: x=35.834, y=51.278, z=3.901
+I	02:19	Life	Cmd	Scan Move; target point: x=35.598, y=51.361, z=3.887
+I	02:19	Life	Cmd	Scan Move; target point: x=33.609, y=51.563, z=3.879
+I	02:20	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:20	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:21	Life	Cmd	Scan Move; target point: x=4.000, y=32.510, z=3.812
+I	02:21	MMA	Cmd	Train SCV
+I	02:21	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:21	Life	Cmd	Scan Move; target point: x=4.000, y=31.726, z=3.826
+I	02:21	Life	Cmd	Scan Move; target point: x=4.000, y=31.772, z=3.837
+I	02:22	Life	Cmd	Scan Move; target point: x=4.000, y=31.788, z=3.839
+I	02:22	Life	Cmd	Morph to Drone
+I	02:22	Life	Cmd	Scan Move; target point: x=29.568, y=11.579, z=4.967
+I	02:23	Life	Cmd	Scan Move; target point: x=27.516, y=11.277, z=4.959
+I	02:23	Life	Cmd	Scan Move; target point: x=27.394, y=10.976, z=4.957
+I	02:23	Life	Cmd	Scan Move; target point: x=27.405, y=10.919, z=4.956
+I	02:24	Life	Cmd	Scan Move; target point: x=25.118, y=10.390, z=4.943
+I	02:24	Life	Cmd	Scan Move; target point: x=25.647, y=10.207, z=4.945
+I	02:25	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=26.500, y=7.250, z=4.924
+I	02:25	MMA	Cmd	[Queued] [Right click] ; target point: x=26.969, y=10.105, z=4.949
+I	02:25	Life	Cmd	Scan Move; target point: x=33.255, y=12.261, z=5.471
+I	02:26	Life	Cmd	Scan Move; target point: x=32.934, y=12.337, z=5.466
+I	02:26	Life	Cmd	Scan Move; target point: x=33.823, y=11.646, z=5.281
+I	02:26	Life	Cmd	Scan Move; target point: x=34.945, y=7.679, z=3.925
+I	02:27	MMA	Cmd	[Right click] [Minimap] ; target point: x=44.465, y=69.023, z=4.938
+I	02:27	MMA	Cmd	[Right click] [Minimap] ; target point: x=44.465, y=69.023, z=4.938
+I	02:27	Life	Cmd	[Minimap] Attack; target point: x=28.279, y=12.372, z=4.968
+I	02:28	Life	Cmd	Scan Move; target point: x=34.328, y=6.621, z=3.918
+I	02:28	MMA	Cmd	Lower
+I	02:28	Life	Cmd	Scan Move; target point: x=33.512, y=5.745, z=4.960
+I	02:29	Life	Cmd	[Right click] [Minimap] ; target point: x=53.116, y=16.000, z=4.918
+I	02:29	MMA	Cmd	[Right click] ; target point: x=26.560, y=9.293, z=4.942
+I	02:29	MMA	Cmd	[Right click] ; target point: x=26.649, y=9.576, z=4.944
+I	02:29	MMA	Cmd	[Right click] ; target point: x=26.638, y=9.781, z=4.946
+I	02:30	Life	Cmd	Scan Move; target point: x=33.459, y=9.162, z=4.975
+I	02:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:30	Life	Cmd	Scan Move; target point: x=33.918, y=9.716, z=4.130
+I	02:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=29); target point: x=8.000, y=9.750, z=5.987
+I	02:30	Life	Cmd	Scan Move; target point: x=34.076, y=9.383, z=3.960
+I	02:31	Life	Cmd	Scan Move; target point: x=34.657, y=9.341, z=4.030
+I	02:31	MMA	Cmd	[Right click] ; target point: x=26.930, y=10.452, z=4.952
+I	02:31	Life	Cmd	Scan Move; target point: x=34.387, y=9.427, z=4.030
+I	02:32	MMA	Cmd	[Right click] ; target point: x=26.778, y=10.422, z=4.951
+I	02:32	MMA	Cmd	[Right click] ; target point: x=26.723, y=10.393, z=4.951
+I	02:32	Life	Cmd	Scan Move; target point: x=33.202, y=9.332, z=4.956
+I	02:33	MMA	Cmd	Train SCV
+I	02:33	Life	Cmd	[Minimap] Attack; target point: x=27.163, y=11.814, z=4.961
+I	02:33	MMA	Cmd	[Right click] ; target point: x=25.698, y=23.218, z=3.988
+I	02:33	MMA	Cmd	[Right click] ; target point: x=25.741, y=23.079, z=3.988
+I	02:33	MMA	Cmd	Attack; target point: x=25.642, y=23.288, z=3.988
+I	02:34	MMA	Cmd	[Minimap] Attack; target point: x=42.233, y=67.907, z=4.956
+I	02:34	Life	Cmd	Morph to Zergling
+I	02:34	Life	Cmd	Morph to Zergling
+I	02:34	MMA	Cmd	[Minimap] Attack; target point: x=41.395, y=67.628, z=4.962
+I	02:34	MMA	Cmd	[Minimap] Attack; target point: x=41.395, y=67.628, z=4.962
+I	02:34	Life	Cmd	Scan Move; target point: x=31.164, y=8.010, z=4.940
+I	02:35	Life	Cmd	Scan Move; target point: x=30.913, y=8.787, z=4.946
+I	02:36	Life	Cmd	Scan Move; target point: x=32.020, y=8.463, z=4.942
+I	02:36	Life	Cmd	Scan Move; target point: x=33.201, y=8.500, z=4.538
+I	02:36	Life	Cmd	Scan Move; target point: x=33.256, y=8.441, z=4.976
+I	02:36	MMA	Cmd	[Minimap] Attack; target point: x=41.953, y=68.465, z=4.955
+I	02:37	Life	Cmd	[Minimap] Attack; target point: x=14.884, y=13.488, z=5.986
+I	02:37	Life	Cmd	[Minimap] Attack; target point: x=15.721, y=12.651, z=5.985
+I	02:38	MMA	Cmd	Build Command Center; target point: x=26.750, y=10.250, z=4.950
+I	02:38	Life	Cmd	[Right click] ; target point: x=35.386, y=7.583, z=3.923
+I	02:39	Life	Cmd	[Right click] ; target point: x=35.724, y=6.438, z=3.905
+I	02:39	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	02:39	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	02:39	Life	Cmd	[Right click] [Minimap] ; target point: x=63.163, y=33.581, z=3.914
+I	02:39	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	02:39	Life	Cmd	[Right click] [Minimap] ; target point: x=58.419, y=31.349, z=3.996
+I	02:39	Life	Cmd	[Right click] [Minimap] ; target point: x=57.581, y=30.791, z=3.996
+I	02:40	Life	Cmd	[Right click] [Minimap] ; target point: x=50.326, y=30.233, z=4.996
+I	02:40	Life	Cmd	[Right click] [Minimap] ; target point: x=50.047, y=30.233, z=4.996
+I	02:40	Life	Cmd	[Right click] [Minimap] ; target point: x=50.047, y=29.674, z=4.996
+I	02:40	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	02:41	MMA	Cmd	[Right click] ; target point: x=20.342, y=13.011, z=5.943
+I	02:41	Life	Cmd	Birth Queen
+I	02:41	MMA	Cmd	[Right click] ; target point: x=20.903, y=12.587, z=5.864
+I	02:42	MMA	Cmd	Train Marine
+I	02:42	MMA	Cmd	[Right click] ; target point: x=21.206, y=12.534, z=5.775
+I	02:42	MMA	Cmd	[Right click] ; target point: x=21.206, y=12.534, z=5.775
+I	02:43	Life	Cmd	[Right click] ; target point: x=48.265, y=67.538, z=5.949
+I	02:43	Life	Cmd	[Right click] ; target point: x=48.546, y=67.446, z=5.950
+I	02:43	Life	Cmd	[Right click] ; target point: x=48.548, y=67.428, z=5.950
+I	02:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:44	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:44	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:44	Life	Cmd	[Right click] ; target point: x=41.498, y=43.192, z=3.997
+I	02:44	Life	Cmd	[Right click] ; target point: x=42.303, y=43.700, z=3.997
+I	02:44	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:44	MMA	Cmd	[Repeat] Train SCV
+I	02:44	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:44	MMA	Cmd	[Repeat] Train SCV
+I	02:44	Life	Cmd	[Right click] ; target point: x=42.717, y=44.027, z=3.997
+I	02:44	MMA	Cmd	[Repeat] Train SCV
+I	02:44	MMA	Cmd	[Repeat] Train SCV
+I	02:44	MMA	Cmd	[Repeat] Train SCV
+I	02:44	Life	Cmd	[Right click] ; target point: x=42.741, y=43.942, z=3.997
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.494, y=42.559, z=3.998
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.405, y=42.472, z=3.998
+I	02:45	MMA	Cmd	[Minimap] Attack; target point: x=40.837, y=69.860, z=4.950
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.317, y=42.024, z=3.998
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.946, y=42.500, z=3.998
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.665, y=43.438, z=3.998
+I	02:45	Life	Cmd	[Right click] ; target point: x=43.635, y=43.749, z=3.998
+I	02:46	Life	Cmd	Stop
+I	02:46	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:47	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	02:47	Life	Cmd	[Right click] ; target point: x=42.389, y=41.996, z=3.997
+I	02:47	Life	Cmd	[Right click] ; target point: x=42.356, y=41.673, z=3.997
+I	02:47	Life	Cmd	[Right click] ; target point: x=42.222, y=41.319, z=3.997
+I	02:47	Life	Cmd	[Right click] ; target point: x=40.650, y=38.410, z=3.997
+I	02:47	Life	Cmd	Morph to Drone
+I	02:48	Life	Cmd	[Right click] [Minimap] ; target point: x=25.767, y=14.326, z=4.952
+I	02:48	MMA	Cmd	[Right click] ; target point: x=23.126, y=11.345, z=4.940
+I	02:48	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	02:48	Life	Cmd	[Right click] [Minimap] ; target point: x=27.163, y=13.767, z=4.965
+I	02:48	MMA	Cmd	[Right click] ; target point: x=17.501, y=12.995, z=5.964
+I	02:49	MMA	Cmd	[Right click] ; target point: x=17.493, y=13.230, z=5.963
+I	02:49	MMA	Cmd	[Right click] ; target point: x=17.493, y=13.230, z=5.963
+I	02:50	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	02:50	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	02:50	Life	Cmd	[Right click] ; target point: x=43.779, y=69.159, z=4.941
+I	02:50	Life	Cmd	[Right click] ; target point: x=39.739, y=68.846, z=4.956
+I	02:50	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	02:50	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	02:50	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	02:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=41.500, y=72.750, z=4.924
+I	02:51	Life	Cmd	[Right click] ; target unit: Cleaning Bot (tag=0); target point: x=37.750, y=68.250, z=4.970
+I	02:51	MMA	Cmd	[Right click] ; target point: x=17.211, y=12.622, z=5.970
+I	02:51	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=38.000, y=69.750, z=4.957
+I	02:51	MMA	Cmd	[Right click] ; target point: x=17.249, y=13.050, z=5.968
+I	02:52	Life	Cmd	[Right click] ; target point: x=44.247, y=66.757, z=4.941
+I	02:52	MMA	Cmd	[Right click] ; target point: x=42.130, y=68.288, z=4.955
+I	02:53	MMA	Cmd	[Right click] ; target point: x=41.680, y=67.471, z=4.961
+I	02:53	Life	Cmd	[Right click] ; target point: x=56.051, y=65.704, z=5.982
+I	02:53	MMA	Cmd	[Right click] ; target point: x=41.698, y=67.437, z=4.961
+I	02:53	MMA	Cmd	[Right click] ; target point: x=41.755, y=67.631, z=4.960
+I	02:53	Life	Cmd	Mutate into Extractor; target unit: Cleaning Bot (tag=1b5); target point: x=60.250, y=66.750, z=5.958
+I	02:54	MMA	Cmd	[Right click] ; target point: x=41.828, y=68.015, z=4.956
+I	02:54	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	02:54	MMA	Cmd	[Right click] ; target point: x=41.709, y=67.803, z=4.959
+I	02:54	Life	Cmd	Morph to Overlord
+I	02:54	MMA	Cmd	[Right click] ; target point: x=40.909, y=62.791, z=4.965
+I	02:55	MMA	Cmd	[Right click] ; target point: x=47.169, y=66.560, z=5.938
+I	02:55	MMA	Cmd	[Right click] ; target point: x=46.250, y=65.371, z=5.923
+I	02:55	MMA	Cmd	[Right click] ; target point: x=41.361, y=62.267, z=4.964
+I	02:55	Life	Cmd	Attack; target point: x=42.491, y=68.069, z=4.953
+I	02:55	MMA	Cmd	[Right click] [Minimap] ; target point: x=57.302, y=7.628, z=3.942
+I	02:56	MMA	Cmd	[Right click] [Minimap] ; target point: x=32.186, y=4.000, z=4.893
+I	02:56	MMA	Cmd	[Right click] [Minimap] ; target point: x=25.767, y=5.116, z=4.124
+I	02:56	MMA	Cmd	[Right click] [Minimap] ; target point: x=27.163, y=8.744, z=4.938
+I	02:56	Life	Cmd	[Right click] ; target point: x=46.974, y=65.674, z=5.928
+I	02:56	Life	Cmd	[Right click] ; target point: x=46.980, y=65.931, z=5.931
+I	02:57	MMA	Cmd	Build Factory; target point: x=17.250, y=13.250, z=5.967
+I	02:57	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	02:58	MMA	Cmd	[Right click] ; target point: x=21.415, y=12.154, z=5.627
+I	02:58	MMA	Cmd	[Right click] ; target point: x=21.415, y=12.154, z=5.627
+I	02:58	Life	Cmd	[Minimap] Attack; target point: x=29.395, y=52.837, z=4.423
+I	02:58	MMA	Cmd	[Right click] ; target point: x=21.206, y=12.067, z=5.658
+I	02:58	MMA	Cmd	Train Marine
+I	02:58	MMA	Cmd	[Right click] ; target point: x=21.109, y=12.567, z=5.808
+I	02:59	MMA	Cmd	[Right click] ; target point: x=21.263, y=12.516, z=5.756
+I	02:59	MMA	Cmd	[Right click] ; target point: x=21.263, y=12.516, z=5.756
+I	02:59	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	02:59	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=41.500, y=72.750, z=4.924
+I	02:59	MMA	Cmd	[Right click] ; target point: x=23.810, y=14.465, z=4.933
+I	02:59	MMA	Cmd	Train SCV
+I	03:00	Life	Cmd	[Right click] ; target point: x=37.467, y=70.075, z=4.955
+I	03:00	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=38.000, y=69.750, z=4.957
+I	03:00	MMA	Cmd	[Right click] ; target point: x=21.029, y=12.520, z=5.816
+I	03:00	MMA	Cmd	[Right click] ; target point: x=21.052, y=12.540, z=5.816
+I	03:00	Life	Cmd	[Right click] ; target point: x=44.374, y=67.093, z=4.941
+I	03:00	MMA	Cmd	[Right click] ; target point: x=21.201, y=12.578, z=5.788
+I	03:01	MMA	Cmd	[Right click] ; target point: x=21.201, y=12.578, z=5.788
+I	03:01	Life	Cmd	[Right click] ; target point: x=48.353, y=66.329, z=5.942
+I	03:01	MMA	Cmd	[Right click] ; target point: x=21.361, y=12.292, z=5.675
+I	03:01	MMA	Cmd	[Right click] ; target point: x=21.667, y=11.723, z=5.455
+I	03:01	Life	Cmd	Birth Queen
+I	03:01	MMA	Cmd	Attack; target point: x=21.870, y=11.448, z=5.334
+I	03:01	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	03:01	MMA	Cmd	Attack; target point: x=22.026, y=11.406, z=5.284
+I	03:01	Life	Cmd	Morph to Drone
+I	03:02	MMA	Cmd	[Right click] ; target unit: Marine (tag=2lt; owner=MMA); target point: x=21.801, y=11.634, z=5.406
+I	03:02	MMA	Cmd	[Right click] ; target point: x=24.786, y=12.000, z=4.948
+I	03:02	MMA	Cmd	Attack; target point: x=25.541, y=12.026, z=4.954
+I	03:03	Life	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:03	Life	Cmd	[Right click] ; target point: x=26.473, y=9.118, z=4.945
+I	03:03	Life	Cmd	[Right click] ; target point: x=26.391, y=9.064, z=4.945
+I	03:03	Life	Cmd	[Right click] ; target point: x=26.331, y=9.046, z=4.945
+I	03:04	Life	Cmd	[Right click] ; target point: x=25.916, y=9.127, z=4.945
+I	03:04	Life	Cmd	[Right click] ; target point: x=25.819, y=9.548, z=4.945
+I	03:05	Life	Cmd	[Right click] ; target point: x=25.591, y=9.604, z=4.945
+I	03:05	MMA	Cmd	[Right click] ; target point: x=22.968, y=10.436, z=4.936
+I	03:05	MMA	Cmd	[Right click] ; target point: x=23.493, y=10.128, z=4.935
+I	03:05	MMA	Cmd	Attack; target point: x=24.559, y=9.746, z=4.937
+I	03:06	MMA	Cmd	[Right click] ; target point: x=25.251, y=9.456, z=4.942
+I	03:06	Life	Cmd	[Right click] ; target point: x=22.789, y=11.173, z=5.033
+I	03:06	Life	Cmd	Attack; target point: x=22.651, y=11.022, z=5.031
+I	03:06	MMA	Cmd	Attack; target point: x=25.059, y=9.261, z=4.939
+I	03:06	MMA	Cmd	[Right click] ; target point: x=21.311, y=11.293, z=5.436
+I	03:06	Life	Cmd	Attack; target unit: Marine (tag=2lt; owner=MMA); target point: x=23.115, y=10.646, z=4.941
+I	03:06	MMA	Cmd	[Right click] ; target point: x=21.843, y=12.024, z=5.486
+I	03:06	MMA	Cmd	[Right click] ; target point: x=21.863, y=11.983, z=5.471
+I	03:07	MMA	Cmd	Attack; target point: x=21.731, y=11.719, z=5.438
+I	03:07	Life	Cmd	Morph to Drone
+I	03:07	MMA	Cmd	[Right click] ; target point: x=22.168, y=10.360, z=4.983
+I	03:07	MMA	Cmd	[Right click] ; target unit: Bricks (tag=1c1); target point: x=22.000, y=9.500, z=4.928
+I	03:07	MMA	Cmd	[Right click] ; target unit: Bricks (tag=1c1); target point: x=22.000, y=9.500, z=4.928
+I	03:07	Life	Cmd	[Minimap] Attack; target point: x=29.953, y=37.767, z=3.997
+I	03:07	MMA	Cmd	[Right click] ; target point: x=22.892, y=9.130, z=4.926
+I	03:07	MMA	Cmd	[Right click] ; target point: x=23.629, y=8.882, z=4.926
+I	03:07	MMA	Cmd	[Right click] ; target point: x=24.533, y=8.611, z=4.928
+I	03:07	Life	Cmd	[Minimap] Attack; target point: x=32.186, y=12.372, z=4.985
+I	03:07	MMA	Cmd	[Right click] ; target point: x=25.512, y=8.456, z=4.934
+I	03:08	MMA	Cmd	Train SCV
+I	03:08	MMA	Cmd	[Right click] ; target point: x=28.706, y=8.540, z=4.942
+I	03:08	MMA	Cmd	[Right click] ; target point: x=28.333, y=8.505, z=4.940
+I	03:09	MMA	Cmd	[Right click] ; target point: x=28.857, y=8.745, z=4.944
+I	03:09	MMA	Cmd	[Right click] ; target point: x=28.880, y=8.745, z=4.944
+I	03:09	MMA	Cmd	[Right click] ; target point: x=28.842, y=8.754, z=4.944
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.421, y=9.007, z=4.945
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.516, y=9.053, z=4.945
+I	03:10	Life	Cmd	[Minimap] Attack; target point: x=35.256, y=31.070, z=3.839
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.534, y=9.090, z=4.946
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.717, y=9.423, z=4.948
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.782, y=9.565, z=4.950
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.851, y=9.899, z=4.952
+I	03:10	MMA	Cmd	[Right click] ; target point: x=28.766, y=10.561, z=4.957
+I	03:11	MMA	Cmd	[Right click] ; target point: x=28.346, y=12.096, z=4.965
+I	03:11	MMA	Cmd	[Right click] ; target point: x=28.178, y=12.729, z=4.969
+I	03:11	MMA	Cmd	[Right click] ; target point: x=28.137, y=12.798, z=4.969
+I	03:11	MMA	Cmd	[Right click] ; target point: x=28.048, y=12.752, z=4.969
+I	03:11	MMA	Cmd	[Right click] ; target point: x=26.981, y=16.646, z=4.962
+I	03:11	MMA	Cmd	[Right click] ; target point: x=26.874, y=16.301, z=4.960
+I	03:11	MMA	Cmd	[Right click] ; target point: x=26.844, y=14.838, z=4.962
+I	03:11	MMA	Cmd	[Right click] ; target point: x=26.810, y=14.484, z=4.963
+I	03:12	Life	Cmd	Morph to Drone
+I	03:13	MMA	Cmd	[Right click] ; target point: x=27.322, y=15.241, z=4.966
+I	03:13	MMA	Cmd	Attack; target point: x=27.928, y=13.191, z=4.970
+I	03:14	MMA	Cmd	[Right click] ; target point: x=27.111, y=17.870, z=4.968
+I	03:14	MMA	Cmd	[Right click] ; target point: x=27.125, y=17.542, z=4.966
+I	03:14	MMA	Cmd	Attack; target point: x=27.150, y=16.116, z=4.962
+I	03:14	MMA	Cmd	[Right click] ; target point: x=27.011, y=16.321, z=4.961
+I	03:14	MMA	Cmd	[Right click] ; target point: x=26.978, y=16.311, z=4.961
+I	03:15	MMA	Cmd	Attack; target unit: Zergling (tag=2g1; owner=Life); target point: x=27.483, y=13.517, z=4.967
+I	03:15	Life	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:15	Life	Cmd	[Right click] ; target point: x=25.959, y=9.427, z=4.945
+I	03:15	Life	Cmd	[Right click] ; target unit: SCV (tag=1w1; owner=MMA); target point: x=26.750, y=9.188, z=4.941
+I	03:16	Life	Cmd	[Right click] ; target unit: SCV (tag=1w1; owner=MMA); target point: x=26.750, y=9.188, z=4.941
+I	03:16	MMA	Cmd	[Right click] ; target point: x=24.519, y=9.825, z=4.937
+I	03:16	MMA	Cmd	[Right click] ; target point: x=23.939, y=9.613, z=4.933
+I	03:16	MMA	Cmd	[Right click] ; target point: x=24.228, y=9.853, z=4.936
+I	03:16	Life	Cmd	[Minimap] Attack; target point: x=48.372, y=21.023, z=4.998
+I	03:16	MMA	Cmd	Attack; target point: x=24.406, y=9.566, z=4.935
+I	03:17	MMA	Cmd	[Right click] ; target point: x=24.917, y=8.909, z=4.935
+I	03:17	Life	Cmd	Morph to Drone
+I	03:17	Life	Cmd	Morph to Drone
+I	03:17	MMA	Cmd	Attack; target point: x=22.645, y=8.907, z=4.923
+I	03:17	Life	Cmd	[Right click] ; target point: x=27.621, y=8.965, z=4.944
+I	03:17	Life	Cmd	[Right click] ; target point: x=27.535, y=8.881, z=4.943
+I	03:18	MMA	Cmd	[Repeat] Build Reactor
+I	03:18	MMA	Cmd	Attack; target point: x=27.351, y=8.201, z=4.935
+I	03:18	Life	Cmd	Attack; target unit: SCV (tag=1w1; owner=MMA); target point: x=26.755, y=9.188, z=4.941
+I	03:19	Life	Cmd	[Right click] ; target point: x=27.505, y=8.999, z=4.944
+I	03:19	Life	Cmd	Attack; target unit: SCV (tag=1w1; owner=MMA); target point: x=27.404, y=9.188, z=4.942
+I	03:19	Life	Cmd	[Right click] ; target point: x=28.479, y=9.334, z=4.947
+I	03:19	Life	Cmd	Attack; target unit: SCV (tag=1w1; owner=MMA); target point: x=27.812, y=9.188, z=4.944
+I	03:19	MMA	Cmd	Attack; target point: x=28.825, y=8.517, z=4.942
+I	03:20	MMA	Cmd	Unknown Command 121_30
+I	03:20	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:20	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:20	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:20	Life	Cmd	Morph to Drone
+I	03:20	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:20	Life	Cmd	Morph to Drone
+I	03:20	Life	Cmd	Morph to Drone
+I	03:21	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:21	Life	Cmd	Scan Move; target point: x=7.602, y=16.875, z=5.947
+I	03:21	MMA	Cmd	Attack; target point: x=28.812, y=11.738, z=4.965
+I	03:21	MMA	Cmd	Attack; target point: x=28.859, y=11.567, z=4.964
+I	03:21	Life	Cmd	Morph to Drone
+I	03:22	Life	Cmd	Morph to Drone
+I	03:22	Life	Cmd	[Right click] ; target point: x=29.659, y=11.406, z=4.966
+I	03:22	MMA	Cmd	Attack; target point: x=28.093, y=13.957, z=4.971
+I	03:23	MMA	Cmd	Attack; target point: x=24.181, y=13.105, z=4.944
+I	03:23	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	03:23	Life	Cmd	Morph to Drone
+I	03:23	Life	Cmd	Morph to Drone
+I	03:23	MMA	Cmd	[Right click] ; target point: x=26.081, y=19.086, z=4.972
+I	03:23	MMA	Cmd	Attack; target point: x=26.670, y=18.113, z=4.967
+I	03:24	MMA	Cmd	[Right click] ; target point: x=13.187, y=20.364, z=3.899
+I	03:24	Life	Cmd	[Right click] [Minimap] ; target point: x=44.465, y=16.558, z=4.994
+I	03:24	MMA	Cmd	[Right click] ; target point: x=15.578, y=18.034, z=5.919
+I	03:24	MMA	Cmd	Attack; target point: x=16.535, y=18.634, z=5.893
+I	03:25	MMA	Cmd	[Queued] Patrol; target point: x=11.571, y=20.467, z=5.941
+I	03:25	Life	Cmd	[Right click] ; target unit: Extractor (tag=2kh; owner=Life); target point: x=60.250, y=66.750, z=5.958
+I	03:25	MMA	Cmd	[Minimap] Attack; target point: x=38.326, y=67.070, z=4.974
+I	03:26	MMA	Cmd	Train SCV
+I	03:26	Life	Cmd	[Right click] ; target unit: Extractor (tag=2kh; owner=Life); target point: x=60.250, y=66.750, z=5.958
+I	03:26	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	03:27	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=1t); target point: x=10.500, y=8.250, z=5.994
+I	03:27	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	03:28	MMA	Cmd	[Right click] ; target point: x=9.207, y=9.739, z=5.993
+I	03:29	MMA	Cmd	[Right click] ; target point: x=15.380, y=9.052, z=5.979
+I	03:29	MMA	Cmd	[Right click] ; target point: x=16.428, y=8.883, z=5.961
+I	03:30	MMA	Cmd	[Right click] ; target point: x=16.853, y=8.887, z=5.954
+I	03:30	MMA	Cmd	[Right click] ; target point: x=16.581, y=9.707, z=5.970
+I	03:30	MMA	Cmd	[Right click] ; target point: x=17.119, y=9.369, z=5.957
+I	03:30	MMA	Cmd	[Right click] ; target point: x=17.597, y=8.783, z=5.941
+I	03:30	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=ht); target point: x=60.000, y=68.250, z=5.973
+I	03:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	03:31	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	03:32	Life	Cmd	[Right click] ; target unit: Drone (tag=2gz; owner=Life); target point: x=38.662, y=69.744, z=4.954
+I	03:32	MMA	Cmd	[Right click] ; target point: x=18.667, y=7.311, z=5.903
+I	03:32	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=kh); target point: x=38.000, y=69.750, z=4.957
+I	03:32	MMA	Cmd	[Right click] ; target point: x=18.527, y=7.271, z=5.903
+I	03:32	Life	Cmd	Morph to Overlord
+I	03:32	Life	Cmd	[Right click] ; target point: x=42.472, y=67.223, z=4.956
+I	03:33	MMA	Cmd	Build Command Center; target point: x=17.750, y=7.750, z=5.922
+I	03:33	MMA	Cmd	[Queued] [Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	03:33	Life	Cmd	[Minimap] Attack; target point: x=44.744, y=19.070, z=4.997
+I	03:33	Life	Cmd	Morph to Drone
+I	03:34	Life	Cmd	Attack; target point: x=42.714, y=13.304, z=4.983
+I	03:34	MMA	Cmd	[Right click] ; target unit: Cleaning Bot (tag=17l); target point: x=24.750, y=6.750, z=4.910
+I	03:34	MMA	Cmd	[Right click] ; target point: x=26.048, y=7.562, z=4.925
+I	03:35	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4x); target point: x=26.500, y=7.250, z=4.924
+I	03:35	Life	Cmd	[Minimap] Attack; target point: x=28.000, y=12.930, z=4.969
+I	03:35	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	03:35	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	03:36	Life	Cmd	Scan Move; target point: x=37.606, y=57.147, z=4.989
+I	03:36	MMA	Cmd	[Minimap] Attack; target point: x=41.395, y=68.465, z=4.949
+I	03:36	MMA	Cmd	[Minimap] Attack; target point: x=41.395, y=68.465, z=4.949
+I	03:36	Life	Cmd	Scan Move; target point: x=35.130, y=55.992, z=4.979
+I	03:36	Life	Cmd	Scan Move; target point: x=35.639, y=55.221, z=4.950
+I	03:36	MMA	Cmd	[Right click] ; target point: x=40.922, y=43.961, z=3.997
+I	03:37	MMA	Cmd	[Right click] ; target point: x=41.109, y=44.029, z=3.997
+I	03:37	MMA	Cmd	Attack; target point: x=41.644, y=43.916, z=3.997
+I	03:37	Life	Cmd	Scan Move; target unit: Overlord (tag=2f5; owner=Life); target point: x=45.586, y=61.950, z=7.805
+I	03:38	MMA	Cmd	[Minimap] Attack; target point: x=48.093, y=65.116, z=5.927
+I	03:38	Life	Cmd	Scan Move; target point: x=47.487, y=61.524, z=5.898
+I	03:38	MMA	Cmd	Train SCV
+I	03:39	Life	Cmd	Spawn Creep Tumor; target point: x=41.750, y=66.250, z=4.960
+I	03:39	Life	Cmd	[Queued] [Right click] ; target point: x=41.215, y=66.200, z=4.964
+I	03:39	Life	Cmd	[Minimap] Attack; target point: x=28.837, y=15.442, z=4.974
+I	03:40	MMA	Cmd	[Right click] ; target unit: Barracks (tag=28x; owner=MMA); target point: x=18.750, y=13.250, z=5.952
+I	03:40	Life	Cmd	[Minimap] Attack; target point: x=23.535, y=10.140, z=4.935
+I	03:40	MMA	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	03:40	MMA	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	03:40	MMA	Cmd	Lift Off
+I	03:40	MMA	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	03:40	MMA	Cmd	[Right click] ; target point: x=15.412, y=10.769, z=5.990
+I	03:41	MMA	Cmd	[Right click] ; target point: x=27.653, y=7.771, z=4.933
+I	03:41	Life	Cmd	Attack; target point: x=41.036, y=64.003, z=4.961
+I	03:41	MMA	Cmd	[Right click] ; target point: x=26.156, y=7.971, z=4.929
+I	03:41	MMA	Cmd	[Right click] ; target point: x=26.635, y=6.975, z=4.923
+I	03:41	Life	Cmd	Morph to Drone
+I	03:42	MMA	Cmd	[Right click] ; target point: x=25.953, y=7.305, z=4.923
+I	03:42	MMA	Cmd	[Right click] ; target point: x=26.056, y=7.125, z=4.922
+I	03:42	Life	Cmd	[Right click] ; target point: x=28.105, y=11.849, z=4.960
+I	03:42	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4x); target point: x=26.500, y=7.250, z=4.924
+I	03:42	Life	Cmd	[Right click] ; target unit: Command Center (tag=0; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:42	Life	Cmd	[Right click] ; target point: x=25.222, y=10.205, z=4.943
+I	03:43	Life	Cmd	[Right click] ; target point: x=25.208, y=10.119, z=4.942
+I	03:43	MMA	Cmd	[Right click] ; target point: x=29.505, y=10.542, z=4.959
+I	03:43	Life	Cmd	[Right click] ; target point: x=25.391, y=10.161, z=4.944
+I	03:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	03:43	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	03:43	Life	Cmd	[Right click] ; target point: x=25.934, y=8.645, z=4.939
+I	03:43	Life	Cmd	[Right click] ; target point: x=25.540, y=9.138, z=4.945
+I	03:44	Life	Cmd	[Right click] ; target point: x=25.670, y=9.147, z=4.945
+I	03:44	Life	Cmd	[Right click] ; target point: x=25.667, y=9.444, z=4.945
+I	03:44	Life	Cmd	[Right click] ; target point: x=25.690, y=9.538, z=4.945
+I	03:44	MMA	Cmd	[Right click] ; target point: x=48.482, y=62.363, z=5.899
+I	03:44	MMA	Cmd	[Right click] ; target point: x=48.416, y=61.901, z=5.896
+I	03:44	MMA	Cmd	[Right click] ; target point: x=48.373, y=61.583, z=5.895
+I	03:44	Life	Cmd	[Right click] ; target point: x=25.375, y=9.240, z=4.943
+I	03:44	MMA	Cmd	[Right click] ; target point: x=48.241, y=61.470, z=5.895
+I	03:44	Life	Cmd	[Right click] ; target unit: SCV (tag=1w1; owner=MMA); target point: x=25.688, y=9.188, z=4.938
+I	03:45	MMA	Cmd	[Right click] ; target point: x=45.185, y=63.315, z=5.278
+I	03:45	Life	Cmd	Attack; target unit: SCV (tag=1w1; owner=MMA); target point: x=25.688, y=9.188, z=4.938
+I	03:45	MMA	Cmd	[Right click] ; target point: x=45.840, y=62.805, z=5.901
+I	03:45	Life	Cmd	Morph to Drone
+I	03:45	MMA	Cmd	[Right click] ; target point: x=46.279, y=62.634, z=5.896
+I	03:45	MMA	Cmd	[Right click] ; target point: x=46.347, y=62.571, z=5.894
+I	03:45	MMA	Cmd	[Right click] ; target point: x=46.547, y=62.467, z=5.890
+I	03:45	MMA	Cmd	[Right click] ; target point: x=46.606, y=62.455, z=5.890
+I	03:46	MMA	Cmd	[Right click] ; target point: x=46.713, y=67.128, z=5.880
+I	03:46	MMA	Cmd	[Right click] ; target point: x=46.829, y=66.465, z=5.935
+I	03:46	MMA	Cmd	[Right click] ; target point: x=46.837, y=66.432, z=5.935
+I	03:46	Life	Cmd	Attack; target point: x=50.051, y=64.526, z=5.938
+I	03:46	MMA	Cmd	[Right click] ; target point: x=46.818, y=66.555, z=5.936
+I	03:46	Life	Cmd	Attack; target point: x=49.566, y=64.445, z=5.932
+I	03:46	MMA	Cmd	[Right click] ; target point: x=47.770, y=67.698, z=5.947
+I	03:47	MMA	Cmd	Attack; target point: x=48.084, y=66.899, z=5.945
+I	03:47	MMA	Cmd	[Right click] ; target point: x=47.869, y=67.005, z=5.945
+I	03:48	Life	Cmd	[Right click] ; target unit: SCV (tag=1xt; owner=MMA); target point: x=29.248, y=10.814, z=4.959
+I	03:48	Life	Cmd	[Right click] ; target point: x=29.150, y=10.999, z=4.961
+I	03:48	MMA	Cmd	Attack; target point: x=23.731, y=9.698, z=4.933
+I	03:48	Life	Cmd	[Right click] ; target unit: SCV (tag=1xt; owner=MMA); target point: x=29.556, y=10.673, z=4.958
+I	03:48	MMA	Cmd	Train SCV
+I	03:49	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:49	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:49	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:49	Life	Cmd	Attack; target point: x=43.198, y=63.385, z=4.937
+I	03:50	MMA	Cmd	Raise
+I	03:50	Life	Cmd	Attack; target point: x=42.912, y=63.575, z=4.939
+I	03:50	MMA	Cmd	Raise
+I	03:50	MMA	Cmd	[Right click] ; target point: x=20.721, y=15.810, z=5.911
+I	03:50	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	03:50	MMA	Cmd	Attack; target point: x=21.822, y=14.980, z=5.919
+I	03:51	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:51	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:51	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	03:51	MMA	Cmd	[Right click] ; target point: x=24.275, y=10.233, z=4.938
+I	03:51	MMA	Cmd	[Right click] ; target point: x=24.041, y=10.180, z=4.937
+I	03:51	MMA	Cmd	[Right click] ; target point: x=23.812, y=9.957, z=4.935
+I	03:51	Life	Cmd	Morph to Drone
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.817, y=9.843, z=4.934
+I	03:52	Life	Cmd	[Right click] ; target unit: SCV (tag=1xt; owner=MMA); target point: x=27.812, y=9.188, z=4.944
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.968, y=9.781, z=4.934
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.931, y=9.807, z=4.934
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.880, y=9.590, z=4.933
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.856, y=9.547, z=4.932
+I	03:52	MMA	Cmd	[Right click] ; target point: x=23.848, y=9.538, z=4.932
+I	03:53	MMA	Cmd	[Right click] ; target point: x=23.848, y=9.538, z=4.932
+I	03:53	Life	Cmd	[Right click] ; target point: x=25.370, y=9.157, z=4.943
+I	03:53	MMA	Cmd	Upgrade to Orbital Command
+I	03:53	Life	Cmd	[Right click] ; target point: x=20.983, y=10.931, z=5.505
+I	03:54	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	03:54	MMA	Cmd	[Right click] ; target point: x=19.198, y=15.796, z=5.922
+I	03:54	MMA	Cmd	[Right click] ; target point: x=19.421, y=15.458, z=5.924
+I	03:54	MMA	Cmd	[Right click] ; target point: x=19.802, y=15.215, z=5.924
+I	03:54	Life	Cmd	[Right click] ; target point: x=57.447, y=70.913, z=5.996
+I	03:54	Life	Cmd	[Right click] ; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	03:55	Life	Cmd	Morph to Drone
+I	03:55	Life	Cmd	Morph to Drone
+I	03:55	Life	Cmd	[Right click] ; target point: x=19.877, y=12.721, z=5.947
+I	03:55	MMA	Cmd	Lift Off
+I	03:55	Life	Cmd	Morph to Drone
+I	03:55	Life	Cmd	Morph to Drone
+I	03:56	MMA	Cmd	Land ; target point: x=18.750, y=13.250, z=5.953
+I	03:56	Life	Cmd	[Right click] ; target point: x=18.104, y=12.740, z=5.961
+I	03:56	MMA	Cmd	Land ; target point: x=18.750, y=14.750, z=5.942
+I	03:56	Life	Cmd	[Right click] ; target point: x=18.774, y=12.744, z=5.955
+I	03:57	Life	Cmd	[Right click] ; target point: x=18.547, y=13.244, z=5.955
+I	03:57	Life	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	03:57	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	03:57	MMA	Cmd	Attack; target point: x=21.800, y=13.415, z=5.936
+I	03:57	Life	Cmd	Morph to Overlord
+I	03:58	Life	Cmd	[Right click] ; target point: x=25.085, y=11.347, z=4.948
+I	03:58	Life	Cmd	[Right click] ; target point: x=25.803, y=8.063, z=4.929
+I	03:58	MMA	Cmd	[Right click] ; target point: x=24.405, y=12.945, z=4.946
+I	03:58	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	03:59	MMA	Cmd	Attack; target point: x=24.416, y=13.021, z=4.946
+I	03:59	MMA	Cmd	Build Hellion
+I	03:59	MMA	Cmd	Build Hellion
+I	04:00	Life	Cmd	Morph to Drone
+I	04:00	MMA	Cmd	Lower
+I	04:00	Life	Cmd	[Right click] ; target point: x=27.263, y=70.377, z=4.953
+I	04:00	MMA	Cmd	Lower
+I	04:00	Life	Cmd	Morph to Drone
+I	04:01	MMA	Cmd	Attack; target point: x=25.974, y=13.314, z=4.959
+I	04:01	MMA	Cmd	Train SCV
+I	04:01	Life	Cmd	Attack; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	04:02	MMA	Cmd	[Right click] ; target point: x=22.172, y=13.769, z=5.933
+I	04:02	MMA	Cmd	Stop
+I	04:02	MMA	Cmd	Attack; target point: x=26.414, y=12.793, z=4.962
+I	04:04	Life	Cmd	Spawn Creep Tumor; target point: x=40.250, y=64.250, z=4.968
+I	04:04	Life	Cmd	[Right click] ; target point: x=41.359, y=64.210, z=4.958
+I	04:04	MMA	Cmd	Build Tech Lab
+I	04:05	MMA	Cmd	[Right click] ; target unit: Command Center (tag=2fm; owner=MMA); target point: x=26.750, y=10.250, z=4.948
+I	04:05	MMA	Cmd	[Right click] ; target point: x=25.271, y=11.639, z=4.950
+I	04:06	Life	Cmd	Evolve Metabolic Boost
+I	04:07	MMA	Cmd	[Right click] ; target point: x=13.338, y=9.729, z=5.995
+I	04:07	MMA	Cmd	[Right click] ; target point: x=27.337, y=13.208, z=4.968
+I	04:07	Life	Cmd	[Right click] ; target point: x=24.382, y=69.144, z=4.965
+I	04:07	MMA	Cmd	[Right click] ; target point: x=26.431, y=13.566, z=4.962
+I	04:08	MMA	Cmd	[Right click] ; target point: x=26.282, y=13.532, z=4.961
+I	04:08	MMA	Cmd	Build Supply Depot; target point: x=25.000, y=14.500, z=4.944
+I	04:08	MMA	Cmd	[Right click] ; target point: x=24.321, y=14.328, z=4.939
+I	04:08	MMA	Cmd	[Right click] ; target point: x=24.276, y=14.244, z=4.939
+I	04:08	MMA	Cmd	Build Supply Depot; target point: x=24.500, y=14.000, z=4.943
+I	04:09	MMA	Cmd	Attack; target point: x=25.327, y=12.195, z=4.953
+I	04:09	MMA	Cmd	Attack; target point: x=25.107, y=12.292, z=4.952
+I	04:10	MMA	Cmd	[Right click] ; target point: x=25.836, y=9.515, z=4.945
+I	04:10	Life	Cmd	[Right click] ; target point: x=26.214, y=68.772, z=4.968
+I	04:10	MMA	Cmd	Attack; target point: x=25.680, y=8.822, z=4.941
+I	04:10	MMA	Cmd	Train SCV
+I	04:11	Life	Cmd	Spawn Creep Tumor; target point: x=41.250, y=63.750, z=4.958
+I	04:11	MMA	Cmd	[Right click] ; target point: x=24.478, y=8.041, z=4.923
+I	04:11	MMA	Cmd	[Right click] ; target point: x=25.420, y=7.443, z=4.922
+I	04:11	MMA	Cmd	[Right click] ; target point: x=25.888, y=7.273, z=4.922
+I	04:11	MMA	Cmd	[Right click] ; target point: x=25.988, y=7.353, z=4.923
+I	04:11	MMA	Cmd	[Right click] ; target point: x=26.128, y=12.998, z=4.961
+I	04:12	Life	Cmd	[Right click] ; target point: x=25.655, y=68.693, z=4.969
+I	04:12	MMA	Cmd	[Right click] ; target point: x=25.480, y=13.048, z=4.956
+I	04:12	Life	Cmd	[Right click] ; target point: x=26.183, y=68.632, z=4.969
+I	04:12	MMA	Cmd	Build Supply Depot; target point: x=24.500, y=14.000, z=4.943
+I	04:12	MMA	Cmd	[Right click] ; target point: x=24.851, y=9.124, z=4.936
+I	04:12	MMA	Cmd	[Right click] ; target point: x=25.109, y=9.031, z=4.939
+I	04:13	MMA	Cmd	Attack; target unit: Zergling (tag=2jl; owner=Life); target point: x=26.221, y=8.837, z=4.936
+I	04:13	MMA	Cmd	[Right click] ; target unit: Zergling (tag=2jl; owner=Life); target point: x=26.221, y=8.837, z=4.936
+I	04:14	Life	Cmd	Scan Move; target point: x=5.763, y=21.908, z=4.933
+I	04:14	MMA	Cmd	Build Hellion
+I	04:14	MMA	Cmd	Build Hellion
+I	04:15	Life	Cmd	Mutate into Hatchery; target point: x=26.250, y=68.750, z=4.968
+I	04:16	Life	Cmd	Attack; target point: x=25.815, y=12.269, z=4.957
+I	04:16	MMA	Cmd	[Right click] ; target point: x=26.061, y=8.611, z=4.938
+I	04:16	Life	Cmd	Attack; target unit: Reaper (tag=24j; owner=MMA); target point: x=25.478, y=11.469, z=5.201
+I	04:16	MMA	Cmd	Attack; target point: x=26.036, y=9.010, z=4.944
+I	04:17	Life	Cmd	Morph to Drone
+I	04:17	Life	Cmd	Morph to Drone
+I	04:18	MMA	Cmd	[Right click] ; target point: x=26.781, y=13.658, z=4.964
+I	04:18	MMA	Cmd	Attack; target unit: Zergling (tag=2k1; owner=Life); target point: x=25.335, y=10.763, z=4.945
+I	04:18	Life	Cmd	Scan Move; target point: x=48.132, y=64.062, z=5.914
+I	04:18	MMA	Cmd	[Right click] ; target point: x=26.874, y=16.634, z=4.961
+I	04:19	MMA	Cmd	Attack; target point: x=25.285, y=11.723, z=4.951
+I	04:19	Life	Cmd	Morph to Drone
+I	04:19	Life	Cmd	Morph to Drone
+I	04:19	MMA	Cmd	[Right click] ; target point: x=27.253, y=16.293, z=4.964
+I	04:19	MMA	Cmd	[Right click] ; target point: x=27.253, y=16.293, z=4.964
+I	04:20	MMA	Cmd	Attack; target point: x=24.121, y=11.854, z=4.944
+I	04:20	Life	Cmd	Scan Move; target point: x=59.865, y=59.692, z=5.939
+I	04:20	MMA	Cmd	[Right click] [Minimap] ; target point: x=64.000, y=69.860, z=3.988
+I	04:20	Life	Cmd	Scan Move; target point: x=63.013, y=55.208, z=3.891
+I	04:20	MMA	Cmd	[Right click] [Minimap] ; target point: x=60.651, y=70.140, z=5.983
+I	04:21	MMA	Cmd	Train SCV
+I	04:21	Life	Cmd	[Right click] ; target point: x=39.318, y=62.717, z=4.977
+I	04:21	MMA	Cmd	Calldown: MULE; target point: x=29.849, y=10.640, z=4.961
+I	04:22	MMA	Cmd	Train SCV
+I	04:22	Life	Cmd	Scan Move; target point: x=36.533, y=56.924, z=4.988
+I	04:22	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4x); target point: x=26.500, y=7.250, z=4.924
+I	04:22	Life	Cmd	Scan Move; target point: x=35.953, y=55.657, z=4.968
+I	04:22	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	04:23	Life	Cmd	Scan Move; target point: x=28.321, y=60.796, z=4.590
+I	04:23	MMA	Cmd	[Right click] ; target point: x=21.037, y=12.030, z=5.692
+I	04:24	Life	Cmd	Morph to Drone
+I	04:24	MMA	Cmd	[Right click] [Minimap] ; target point: x=56.744, y=68.465, z=5.994
+I	04:24	Life	Cmd	Mutate into Extractor; target unit: Cleaning Bot (tag=1a9); target point: x=43.250, y=73.250, z=4.910
+I	04:25	MMA	Cmd	Research Stimpack
+I	04:25	MMA	Cmd	[Right click] ; target unit: Marine (tag=2eq; owner=MMA); target point: x=21.845, y=13.569, z=5.880
+I	04:25	MMA	Cmd	[Right click] ; target unit: Marine (tag=2eq; owner=MMA); target point: x=21.845, y=13.569, z=5.880
+I	04:26	MMA	Cmd	[Right click] ; target point: x=24.674, y=12.891, z=4.949
+I	04:26	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	04:26	MMA	Cmd	Train Marine
+I	04:26	Life	Cmd	[Right click] ; target point: x=41.374, y=74.118, z=4.913
+I	04:27	Life	Cmd	[Right click] ; target point: x=41.539, y=73.781, z=4.915
+I	04:28	MMA	Cmd	[Right click] ; target point: x=13.599, y=9.462, z=5.994
+I	04:28	Life	Cmd	Mutate into Baneling Nest; target point: x=41.250, y=73.750, z=4.916
+I	04:29	MMA	Cmd	[Right click] ; target unit: MULE (tag=2k2; owner=MMA); target point: x=29.849, y=10.656, z=4.960
+I	04:29	MMA	Cmd	[Right click] ; target unit: MULE (tag=2k2; owner=MMA); target point: x=29.849, y=10.656, z=4.960
+I	04:29	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	04:29	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	04:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	04:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	04:30	Life	Cmd	Spawn Creep Tumor; target point: x=36.750, y=61.750, z=4.995
+I	04:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	04:30	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	04:30	Life	Cmd	Attack; target point: x=37.580, y=60.806, z=4.994
+I	04:31	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	04:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4x); target point: x=26.500, y=7.250, z=4.924
+I	04:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	04:31	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	04:31	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=5d); target point: x=28.500, y=7.250, z=4.932
+I	04:32	Life	Cmd	[Right click] ; target point: x=43.278, y=67.057, z=4.949
+I	04:33	Life	Cmd	Morph to Drone
+I	04:34	MMA	Cmd	[Right click] ; target point: x=24.835, y=12.614, z=4.950
+I	04:34	MMA	Cmd	[Right click] ; target point: x=25.034, y=12.525, z=4.952
+I	04:34	MMA	Cmd	Train Marine
+I	04:34	Life	Cmd	[Right click] ; target point: x=38.579, y=69.565, z=4.957
+I	04:35	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=kh); target point: x=38.000, y=69.750, z=4.957
+I	04:35	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=kh); target point: x=38.000, y=69.750, z=4.957
+I	04:35	Life	Cmd	Morph to Zergling
+I	04:35	Life	Cmd	Morph to Zergling
+I	04:35	Life	Cmd	Morph to Zergling
+I	04:35	Life	Cmd	Morph to Zergling
+I	04:35	Life	Cmd	Morph to Zergling
+I	04:36	Life	Cmd	[Right click] ; target point: x=43.790, y=67.439, z=4.945
+I	04:36	Life	Cmd	[Right click] ; target point: x=43.854, y=67.477, z=4.945
+I	04:36	Life	Cmd	[Right click] ; target point: x=43.926, y=67.531, z=4.944
+I	04:36	Life	Cmd	[Right click] ; target point: x=44.014, y=67.588, z=4.944
+I	04:36	MMA	Cmd	[Right click] [Minimap] ; target point: x=58.698, y=67.907, z=5.982
+I	04:36	Life	Cmd	[Right click] ; target point: x=44.115, y=67.606, z=4.943
+I	04:36	Life	Cmd	[Right click] ; target point: x=44.195, y=67.636, z=4.943
+I	04:37	MMA	Cmd	[Right click] [Minimap] ; target point: x=40.558, y=68.744, z=4.958
+I	04:38	MMA	Cmd	Train SCV
+I	04:38	Life	Cmd	Spawn Creep Tumor; target point: x=39.250, y=59.750, z=4.986
+I	04:38	MMA	Cmd	Train SCV
+I	04:38	Life	Cmd	Morph to Overlord
+I	04:38	Life	Cmd	Morph to Overlord
+I	04:38	MMA	Cmd	[Right click] ; target point: x=26.410, y=13.709, z=4.962
+I	04:39	MMA	Cmd	[Right click] ; target point: x=26.549, y=13.839, z=4.962
+I	04:40	Life	Cmd	Attack; target point: x=43.349, y=61.689, z=4.956
+I	04:40	Life	Cmd	Attack; target point: x=45.060, y=65.267, z=5.044
+I	04:40	Life	Cmd	Attack; target point: x=44.398, y=64.098, z=4.919
+I	04:40	Life	Cmd	Attack; target point: x=44.441, y=64.108, z=4.919
+I	04:41	Life	Cmd	Attack; target point: x=48.790, y=63.945, z=5.918
+I	04:41	Life	Cmd	Attack; target point: x=48.113, y=63.719, z=5.910
+I	04:41	Life	Cmd	Attack; target point: x=48.054, y=63.897, z=5.911
+I	04:41	Life	Cmd	Attack; target point: x=47.674, y=64.159, z=5.912
+I	04:42	Life	Cmd	Attack; target point: x=47.676, y=64.098, z=5.911
+I	04:42	Life	Cmd	Attack; target unit: Reaper (tag=24j; owner=MMA); target point: x=47.697, y=63.122, z=6.149
+I	04:42	MMA	Cmd	[Right click] ; target point: x=61.314, y=64.756, z=5.931
+I	04:42	MMA	Cmd	[Queued] [Right click] ; target point: x=62.037, y=71.706, z=5.990
+I	04:43	Life	Cmd	Attack; target point: x=49.749, y=66.788, z=5.958
+I	04:43	Life	Cmd	Attack; target point: x=49.502, y=66.564, z=5.954
+I	04:43	MMA	Cmd	[Right click] ; target point: x=40.336, y=65.645, z=4.969
+I	04:43	Life	Cmd	[Right click] ; target point: x=40.815, y=66.982, z=4.967
+I	04:43	MMA	Cmd	[Right click] ; target point: x=39.405, y=65.723, z=4.973
+I	04:44	MMA	Cmd	[Right click] ; target point: x=38.426, y=67.779, z=4.970
+I	04:44	MMA	Cmd	Build Hellion
+I	04:44	Life	Cmd	Attack; target point: x=57.056, y=65.143, z=5.974
+I	04:44	MMA	Cmd	Build Hellion
+I	04:45	MMA	Cmd	[Right click] ; target point: x=39.197, y=67.069, z=4.971
+I	04:45	MMA	Cmd	[Right click] ; target point: x=39.217, y=67.371, z=4.970
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.976, y=67.687, z=4.969
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.849, y=67.865, z=4.968
+I	04:45	Life	Cmd	[Right click] ; target unit: Reaper (tag=24j; owner=MMA); target point: x=55.911, y=64.188, z=6.219
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.614, y=68.310, z=4.966
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.538, y=68.593, z=4.965
+I	04:45	Life	Cmd	[Right click] ; target point: x=56.076, y=64.344, z=5.971
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.533, y=68.724, z=4.964
+I	04:45	MMA	Cmd	[Right click] ; target point: x=38.577, y=68.947, z=4.962
+I	04:46	MMA	Cmd	Attack; target unit: Drone (tag=2pj; owner=Life); target point: x=38.687, y=69.997, z=4.952
+I	04:46	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=gx); target point: x=60.000, y=68.750, z=5.977
+I	04:46	Life	Cmd	Attack; target point: x=61.593, y=70.071, z=5.979
+I	04:46	MMA	Cmd	[Right click] ; target point: x=39.213, y=65.848, z=4.973
+I	04:47	Life	Cmd	Attack; target point: x=53.124, y=70.902, z=5.984
+I	04:47	MMA	Cmd	[Right click] ; target point: x=38.725, y=69.162, z=4.960
+I	04:47	MMA	Cmd	[Right click] ; target point: x=38.717, y=69.139, z=4.960
+I	04:47	MMA	Cmd	Attack; target unit: Drone (tag=2pj; owner=Life); target point: x=38.951, y=69.970, z=4.951
+I	04:47	Life	Cmd	Attack; target point: x=36.504, y=70.479, z=4.953
+I	04:47	MMA	Cmd	[Right click] ; target unit: Drone (tag=2g2; owner=Life); target point: x=38.671, y=70.143, z=4.951
+I	04:48	Life	Cmd	Attack; target point: x=39.596, y=67.998, z=4.965
+I	04:48	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	04:48	Life	Cmd	[Right click] ; target point: x=42.065, y=71.473, z=4.937
+I	04:48	MMA	Cmd	[Right click] ; target point: x=38.777, y=66.599, z=4.973
+I	04:49	Life	Cmd	[Right click] ; target point: x=41.150, y=71.564, z=4.937
+I	04:49	MMA	Cmd	[Right click] ; target point: x=38.769, y=66.599, z=4.973
+I	04:49	Life	Cmd	[Right click] ; target point: x=42.029, y=71.892, z=4.930
+I	04:49	MMA	Cmd	[Right click] ; target point: x=37.971, y=66.781, z=4.975
+I	04:49	MMA	Cmd	[Right click] ; target point: x=38.209, y=67.317, z=4.973
+I	04:49	MMA	Cmd	Attack; target unit: Drone (tag=2v7; owner=Life); target point: x=39.648, y=70.109, z=4.950
+I	04:49	MMA	Cmd	[Right click] ; target point: x=39.444, y=68.898, z=4.955
+I	04:49	MMA	Cmd	[Right click] ; target point: x=39.337, y=68.490, z=4.958
+I	04:50	MMA	Cmd	[Right click] ; target unit: Drone (tag=3bm; owner=Life); target point: x=39.615, y=69.684, z=4.953
+I	04:50	MMA	Cmd	[Right click] ; target unit: Drone (tag=3bm; owner=Life); target point: x=39.696, y=69.922, z=4.951
+I	04:50	Life	Cmd	Attack; target point: x=41.251, y=68.486, z=4.954
+I	04:51	MMA	Cmd	[Right click] ; target point: x=39.306, y=70.147, z=4.951
+I	04:51	Life	Cmd	Attack; target point: x=42.677, y=68.347, z=4.951
+I	04:51	MMA	Cmd	[Right click] ; target unit: Drone (tag=2qq; owner=Life); target point: x=40.063, y=70.589, z=4.945
+I	04:51	Life	Cmd	Attack; target point: x=43.813, y=69.090, z=4.941
+I	04:51	MMA	Cmd	[Right click] ; target point: x=39.912, y=71.269, z=4.943
+I	04:51	MMA	Cmd	[Right click] ; target point: x=39.789, y=71.642, z=4.939
+I	04:51	Life	Cmd	[Right click] ; target point: x=44.840, y=70.231, z=4.932
+I	04:51	MMA	Cmd	[Right click] ; target point: x=39.844, y=72.190, z=4.935
+I	04:51	Life	Cmd	[Right click] ; target point: x=44.825, y=69.469, z=4.937
+I	04:51	MMA	Cmd	[Right click] ; target point: x=37.499, y=72.290, z=4.938
+I	04:52	MMA	Cmd	[Right click] ; target point: x=36.830, y=72.382, z=4.938
+I	04:52	Life	Cmd	[Right click] ; target point: x=43.788, y=68.750, z=4.943
+I	04:52	MMA	Cmd	[Right click] ; target point: x=36.955, y=72.323, z=4.938
+I	04:52	Life	Cmd	Attack; target point: x=36.934, y=72.697, z=4.936
+I	04:52	MMA	Cmd	Attack; target point: x=38.979, y=71.332, z=4.943
+I	04:52	Life	Cmd	Attack; target point: x=36.185, y=72.722, z=4.935
+I	04:53	MMA	Cmd	[Right click] ; target point: x=36.591, y=71.354, z=4.944
+I	04:53	Life	Cmd	Attack; target point: x=36.230, y=72.324, z=4.937
+I	04:53	MMA	Cmd	[Right click] ; target point: x=36.654, y=71.202, z=4.946
+I	04:53	MMA	Cmd	Attack; target unit: Drone (tag=39e; owner=Life); target point: x=38.944, y=70.980, z=4.945
+I	04:53	MMA	Cmd	Attack; target unit: Drone (tag=39e; owner=Life); target point: x=38.686, y=70.939, z=4.946
+I	04:53	Life	Cmd	[Right click] ; target point: x=43.248, y=70.559, z=4.936
+I	04:54	MMA	Cmd	Train SCV
+I	04:54	MMA	Cmd	Train SCV
+I	04:54	Life	Cmd	[Right click] ; target point: x=44.162, y=71.189, z=4.927
+I	04:54	Life	Cmd	[Right click] ; target point: x=39.062, y=70.027, z=4.953
+I	04:54	Life	Cmd	[Right click] ; target point: x=39.081, y=69.688, z=4.955
+I	04:55	MMA	Cmd	Train Marine
+I	04:55	Life	Cmd	[Right click] ; target point: x=42.719, y=72.111, z=4.921
+I	04:55	Life	Cmd	[Right click] ; target point: x=41.454, y=72.198, z=4.930
+I	04:55	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=nl); target point: x=38.500, y=72.250, z=4.938
+I	04:55	MMA	Cmd	[Right click] ; target point: x=39.885, y=71.560, z=4.940
+I	04:56	Life	Cmd	[Right click] ; target point: x=41.724, y=67.659, z=4.960
+I	04:56	MMA	Cmd	[Right click] ; target point: x=39.850, y=71.530, z=4.940
+I	04:56	MMA	Cmd	[Right click] ; target point: x=39.951, y=71.572, z=4.939
+I	04:56	MMA	Cmd	Attack; target unit: Drone (tag=2ox; owner=Life); target point: x=39.429, y=69.387, z=4.956
+I	04:56	Life	Cmd	Attack; target point: x=39.482, y=72.264, z=4.936
+I	04:56	Life	Cmd	[Right click] ; target point: x=42.123, y=67.247, z=4.959
+I	04:56	Life	Cmd	Morph to Drone
+I	04:57	Life	Cmd	Morph to Drone
+I	04:57	MMA	Cmd	[Right click] ; target point: x=39.602, y=67.658, z=4.965
+I	04:57	Life	Cmd	[Right click] ; target point: x=42.746, y=66.941, z=4.954
+I	04:57	MMA	Cmd	Build Hellion
+I	04:57	MMA	Cmd	Build Hellion
+I	04:57	Life	Cmd	[Right click] ; target point: x=44.363, y=68.288, z=4.942
+I	04:58	MMA	Cmd	[Right click] ; target point: x=40.247, y=65.470, z=4.970
+I	04:58	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	04:58	MMA	Cmd	[Right click] ; target point: x=41.011, y=66.004, z=4.965
+I	04:58	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	04:58	MMA	Cmd	[Right click] ; target point: x=42.651, y=67.558, z=4.954
+I	04:58	MMA	Cmd	Attack; target unit: Drone (tag=2qq; owner=Life); target point: x=42.494, y=68.862, z=4.948
+I	04:59	MMA	Cmd	[Right click] ; target point: x=43.052, y=67.690, z=4.950
+I	04:59	MMA	Cmd	[Right click] ; target point: x=43.210, y=68.135, z=4.948
+I	04:59	MMA	Cmd	[Right click] ; target point: x=43.155, y=69.068, z=4.945
+I	04:59	MMA	Cmd	[Right click] ; target point: x=43.132, y=69.245, z=4.944
+I	05:01	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	05:01	MMA	Cmd	[Right click] ; target point: x=28.965, y=13.837, z=4.974
+I	05:01	MMA	Cmd	Build Supply Depot; target point: x=29.000, y=14.000, z=4.974
+I	05:02	Life	Cmd	[Right click] ; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	05:02	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	05:02	MMA	Cmd	Upgrade to Orbital Command
+I	05:02	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	05:03	Life	Cmd	Morph to Zergling
+I	05:03	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	MMA	Cmd	[Right click] ; target point: x=25.080, y=11.583, z=4.949
+I	05:04	Life	Cmd	[Repeat] Morph to Zergling
+I	05:04	MMA	Cmd	[Right click] ; target point: x=25.001, y=11.406, z=4.947
+I	05:04	MMA	Cmd	[Right click] ; target point: x=24.930, y=11.426, z=4.947
+I	05:04	Life	Cmd	[Right click] ; target unit: Extractor (tag=34y; owner=Life); target point: x=43.250, y=73.250, z=4.910
+I	05:04	Life	Cmd	[Right click] ; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	05:05	Life	Cmd	[Right click] ; target point: x=26.585, y=70.184, z=4.961
+I	05:05	MMA	Cmd	[Right click] ; target point: x=24.230, y=12.472, z=4.945
+I	05:05	MMA	Cmd	[Right click] ; target point: x=24.229, y=12.441, z=4.945
+I	05:06	Life	Cmd	Morph to Zergling
+I	05:06	Life	Cmd	Morph to Zergling
+I	05:06	Life	Cmd	Morph to Zergling
+I	05:06	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=6p); target point: x=29.500, y=7.750, z=4.937
+I	05:06	Life	Cmd	Spawn Creep Tumor; target point: x=33.750, y=59.250, z=4.996
+I	05:06	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=6p); target point: x=29.500, y=7.750, z=4.937
+I	05:06	Life	Cmd	Spawn Creep Tumor; target point: x=38.250, y=56.250, z=4.746
+I	05:07	MMA	Cmd	Train SCV
+I	05:07	MMA	Cmd	Train SCV
+I	05:07	Life	Cmd	[Right click] ; target point: x=27.026, y=68.166, z=4.972
+I	05:08	MMA	Cmd	[Right click] ; target point: x=25.325, y=12.940, z=4.955
+I	05:08	MMA	Cmd	[Right click] ; target point: x=25.458, y=15.143, z=4.945
+I	05:09	MMA	Cmd	[Right click] ; target point: x=25.310, y=11.827, z=4.951
+I	05:09	MMA	Cmd	[Right click] ; target point: x=25.289, y=11.800, z=4.951
+I	05:09	MMA	Cmd	[Right click] ; target point: x=25.458, y=15.143, z=4.945
+I	05:09	MMA	Cmd	[Right click] ; target point: x=25.432, y=15.785, z=4.943
+I	05:09	MMA	Cmd	[Right click] ; target point: x=25.333, y=15.868, z=4.942
+I	05:10	MMA	Cmd	[Right click] ; target point: x=25.351, y=18.816, z=4.966
+I	05:10	Life	Cmd	Morph to Overlord
+I	05:10	MMA	Cmd	[Right click] ; target point: x=25.343, y=18.769, z=4.965
+I	05:10	Life	Cmd	Morph to Overlord
+I	05:10	MMA	Cmd	Attack; target point: x=25.465, y=18.559, z=4.964
+I	05:10	MMA	Cmd	[Queued] Attack; target point: x=29.044, y=22.928, z=4.768
+I	05:10	Life	Cmd	[Right click] ; target point: x=41.693, y=65.449, z=4.958
+I	05:11	Life	Cmd	[Right click] ; target point: x=41.301, y=66.063, z=4.963
+I	05:11	Life	Cmd	[Right click] ; target point: x=41.301, y=66.063, z=4.963
+I	05:12	Life	Cmd	[Right click] ; target point: x=42.464, y=44.421, z=3.997
+I	05:12	Life	Cmd	[Right click] ; target point: x=40.029, y=65.005, z=4.970
+I	05:12	Life	Cmd	[Right click] ; target point: x=40.054, y=65.294, z=4.971
+I	05:13	Life	Cmd	[Right click] ; target point: x=40.101, y=65.375, z=4.970
+I	05:13	MMA	Cmd	[Right click] ; target point: x=11.665, y=6.198, z=5.994
+I	05:13	MMA	Cmd	[Right click] ; target point: x=11.524, y=6.455, z=5.995
+I	05:13	MMA	Cmd	Build Engineering Bay; target point: x=10.750, y=5.750, z=5.996
+I	05:14	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=0); target point: x=29.500, y=70.750, z=4.947
+I	05:14	MMA	Cmd	[Right click] ; target point: x=12.238, y=6.875, z=5.992
+I	05:15	MMA	Cmd	[Right click] ; target point: x=12.043, y=7.088, z=5.993
+I	05:15	MMA	Cmd	[Right click] ; target point: x=11.352, y=7.322, z=5.995
+I	05:15	Life	Cmd	[Right click] ; target point: x=42.201, y=64.767, z=4.949
+I	05:15	Life	Cmd	[Right click] ; target point: x=41.841, y=65.412, z=4.956
+I	05:15	Life	Cmd	[Right click] ; target point: x=41.841, y=65.412, z=4.956
+I	05:15	MMA	Cmd	Build Engineering Bay; target point: x=11.250, y=7.250, z=5.995
+I	05:16	Life	Cmd	[Right click] ; target unit: Creep Tumor (tag=2wi; owner=Life); target point: x=41.250, y=63.750, z=4.958
+I	05:16	MMA	Cmd	[Right click] ; target point: x=11.796, y=8.081, z=5.995
+I	05:16	Life	Cmd	[Right click] ; target unit: Creep Tumor (tag=2wi; owner=Life); target point: x=41.250, y=63.750, z=4.958
+I	05:16	MMA	Cmd	[Right click] ; target point: x=11.796, y=8.091, z=5.995
+I	05:16	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	05:17	Life	Cmd	Morph to Zergling
+I	05:17	Life	Cmd	Morph to Zergling
+I	05:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	05:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	05:17	MMA	Cmd	[Right click] ; target unit: SCV (tag=32s; owner=MMA); target point: x=29.329, y=8.197, z=4.939
+I	05:17	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=6p); target point: x=29.500, y=7.750, z=4.937
+I	05:18	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=6p); target point: x=29.500, y=7.750, z=4.937
+I	05:18	MMA	Cmd	[Right click] ; target point: x=30.987, y=26.193, z=4.458
+I	05:18	MMA	Cmd	Train SCV
+I	05:19	MMA	Cmd	Train SCV
+I	05:19	Life	Cmd	[Right click] ; target point: x=51.446, y=65.121, z=5.959
+I	05:19	MMA	Cmd	[Right click] ; target point: x=27.922, y=35.023, z=3.998
+I	05:19	MMA	Cmd	[Right click] ; target point: x=27.699, y=34.988, z=3.998
+I	05:19	Life	Cmd	[Right click] ; target point: x=42.477, y=64.437, z=4.945
+I	05:19	MMA	Cmd	Attack; target point: x=26.333, y=34.782, z=3.998
+I	05:19	MMA	Cmd	Train Marine
+I	05:20	Life	Cmd	[Right click] ; target point: x=42.612, y=43.896, z=3.997
+I	05:20	Life	Cmd	[Right click] ; target point: x=42.510, y=43.924, z=3.997
+I	05:21	Life	Cmd	[Right click] ; target point: x=42.556, y=43.377, z=3.997
+I	05:22	Life	Cmd	[Minimap] Attack; target point: x=26.326, y=26.605, z=3.990
+I	05:23	Life	Cmd	Attack; target point: x=25.682, y=35.386, z=3.998
+I	05:23	MMA	Cmd	Attack; target point: x=26.121, y=36.281, z=3.997
+I	05:23	MMA	Cmd	[Right click] ; target point: x=26.684, y=32.423, z=3.998
+I	05:23	MMA	Cmd	Stop
+I	05:23	Life	Cmd	[Right click] ; target unit: Creep Tumor (tag=2sx; owner=Life); target point: x=41.750, y=66.250, z=4.959
+I	05:23	MMA	Cmd	Stop
+I	05:23	Life	Cmd	[Right click] ; target point: x=43.522, y=66.746, z=4.946
+I	05:24	Life	Cmd	[Right click] [Minimap] ; target point: x=20.186, y=19.349, z=5.765
+I	05:24	MMA	Cmd	[Right click] ; target point: x=24.646, y=12.465, z=4.948
+I	05:24	MMA	Cmd	[Right click] ; target point: x=24.646, y=12.465, z=4.948
+I	05:25	Life	Cmd	[Minimap] Attack; target point: x=42.233, y=34.698, z=4.998
+I	05:25	MMA	Cmd	Build Hellion
+I	05:25	MMA	Cmd	Build Hellion
+I	05:25	MMA	Cmd	[Minimap] Attack; target point: x=43.907, y=45.023, z=3.998
+I	05:26	MMA	Cmd	[Minimap] Attack; target point: x=43.907, y=45.023, z=3.998
+I	05:26	MMA	Cmd	[Right click] ; target point: x=28.001, y=13.196, z=4.970
+I	05:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:26	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:27	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:27	MMA	Cmd	[Right click] ; target point: x=28.811, y=11.625, z=4.964
+I	05:27	Life	Cmd	[Minimap] Attack; target point: x=53.674, y=43.070, z=3.997
+I	05:28	MMA	Cmd	Train SCV
+I	05:28	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:28	Life	Cmd	[Right click] [Minimap] ; target point: x=43.907, y=44.186, z=4.010
+I	05:28	MMA	Cmd	Return Cargo
+I	05:28	Life	Cmd	Morph to Zergling
+I	05:28	Life	Cmd	Morph to Zergling
+I	05:28	MMA	Cmd	Return Cargo
+I	05:29	Life	Cmd	[Right click] [Minimap] ; target point: x=45.302, y=39.442, z=3.996
+I	05:29	Life	Cmd	[Right click] [Minimap] ; target point: x=45.302, y=39.442, z=3.996
+I	05:29	MMA	Cmd	[Right click] ; target point: x=30.300, y=33.855, z=3.992
+I	05:29	Life	Cmd	Morph to Zergling
+I	05:29	MMA	Cmd	[Right click] ; target point: x=30.055, y=33.535, z=3.991
+I	05:29	Life	Cmd	Morph to Zergling
+I	05:29	MMA	Cmd	[Right click] ; target point: x=30.031, y=33.577, z=3.992
+I	05:29	MMA	Cmd	Attack; target point: x=31.079, y=33.926, z=3.989
+I	05:30	Life	Cmd	[Right click] ; target point: x=44.663, y=43.982, z=4.998
+I	05:30	MMA	Cmd	[Minimap] Attack; target point: x=30.791, y=13.488, z=4.980
+I	05:30	MMA	Cmd	[Minimap] Attack; target point: x=33.860, y=17.395, z=4.997
+I	05:30	MMA	Cmd	[Minimap] Attack; target point: x=33.302, y=18.512, z=4.998
+I	05:30	Life	Cmd	[Right click] ; target point: x=43.286, y=42.356, z=3.998
+I	05:30	MMA	Cmd	Train SCV
+I	05:31	MMA	Cmd	[Right click] ; target point: x=26.857, y=33.938, z=3.998
+I	05:31	MMA	Cmd	Attack; target point: x=26.772, y=34.905, z=3.998
+I	05:31	Life	Cmd	[Right click] ; target point: x=44.290, y=43.990, z=4.577
+I	05:31	Life	Cmd	[Right click] ; target point: x=44.854, y=43.028, z=4.054
+I	05:32	Life	Cmd	[Right click] ; target point: x=40.240, y=44.672, z=3.997
+I	05:32	Life	Cmd	[Right click] ; target unit: Xel'Naga Tower (tag=1gh); target point: x=43.000, y=44.500, z=3.996
+I	05:32	MMA	Cmd	Return Cargo
+I	05:33	Life	Cmd	[Right click] ; target point: x=48.333, y=39.830, z=3.997
+I	05:33	Life	Cmd	[Right click] ; target point: x=55.346, y=35.783, z=3.997
+I	05:34	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	05:34	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	05:34	MMA	Cmd	Train SCV
+I	05:34	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=31d; owner=Life); target point: x=26.250, y=68.750, z=4.967
+I	05:35	Life	Cmd	Morph to Zergling
+I	05:35	Life	Cmd	Morph to Zergling
+I	05:35	Life	Cmd	Morph to Zergling
+I	05:35	Life	Cmd	Spawn Creep Tumor; target point: x=24.250, y=67.250, z=4.978
+I	05:35	MMA	Cmd	Calldown: MULE; target unit: Mineral Field (tag=3l); target point: x=30.000, y=10.250, z=4.957
+I	05:35	Life	Cmd	[Queued] Spawn Creep Tumor; target point: x=25.750, y=66.250, z=4.986
+I	05:36	Life	Cmd	Morph to Zergling
+I	05:36	Life	Cmd	Morph to Zergling
+I	05:36	Life	Cmd	Morph to Zergling
+I	05:36	Life	Cmd	Morph to Zergling
+I	05:36	Life	Cmd	Morph to Zergling
+I	05:37	Life	Cmd	Spawn Creep Tumor; target point: x=31.750, y=58.250, z=4.936
+I	05:38	Life	Cmd	Spawn Creep Tumor; target point: x=41.250, y=53.750, z=3.987
+I	05:38	MMA	Cmd	[Right click] ; target unit: Factory (tag=2kx; owner=MMA); target point: x=18.750, y=13.250, z=5.952
+I	05:38	MMA	Cmd	[Right click] ; target point: x=17.952, y=12.642, z=5.958
+I	05:38	MMA	Cmd	[Right click] ; target point: x=17.420, y=12.435, z=5.967
+I	05:38	Life	Cmd	Attack; target point: x=23.422, y=65.620, z=4.984
+I	05:39	Life	Cmd	Attack; target point: x=23.521, y=63.685, z=4.994
+I	05:39	Life	Cmd	[Minimap] Attack; target point: x=43.907, y=6.512, z=4.932
+I	05:40	Life	Cmd	[Minimap] Attack; target point: x=47.814, y=10.977, z=4.989
+I	05:40	MMA	Cmd	Build Supply Depot; target point: x=28.000, y=14.000, z=4.971
+I	05:40	Life	Cmd	Attack; target point: x=53.978, y=12.889, z=3.943
+I	05:40	Life	Cmd	Morph to Zergling
+I	05:40	Life	Cmd	Morph to Zergling
+I	05:41	MMA	Cmd	Build Bunker; target point: x=26.750, y=13.750, z=4.964
+I	05:41	Life	Cmd	Attack; target point: x=52.794, y=12.853, z=3.943
+I	05:42	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:42	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4h); target point: x=30.000, y=9.750, z=4.953
+I	05:42	MMA	Cmd	Upgrade Infantry Weapons Level 1
+I	05:42	Life	Cmd	Morph to Overlord
+I	05:43	MMA	Cmd	Upgrade Infantry Armor Level 1
+I	05:43	MMA	Cmd	[Minimap] Attack; target point: x=43.907, y=29.395, z=4.997
+I	05:43	Life	Cmd	[Right click] ; target point: x=41.035, y=72.868, z=4.923
+I	05:43	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	05:43	MMA	Cmd	[Minimap] Attack; target point: x=36.093, y=19.349, z=4.998
+I	05:43	Life	Cmd	[Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	05:44	MMA	Cmd	[Minimap] Attack; target point: x=38.605, y=17.116, z=4.997
+I	05:44	MMA	Cmd	[Minimap] Attack; target point: x=42.233, y=12.651, z=4.979
+I	05:44	Life	Cmd	[Queued] [Right click] ; target unit: Mineral Field (tag=lt); target point: x=41.500, y=72.750, z=4.924
+I	05:45	MMA	Cmd	[Right click] ; target point: x=26.192, y=34.310, z=3.998
+I	05:45	Life	Cmd	[Right click] ; target point: x=42.739, y=12.806, z=4.979
+I	05:46	Life	Cmd	[Right click] ; target point: x=49.604, y=12.845, z=4.951
+I	05:46	Life	Cmd	[Right click] ; target point: x=51.230, y=14.813, z=4.945
+I	05:47	Life	Cmd	[Right click] ; target unit: Hatchery (tag=31d; owner=Life); target point: x=26.250, y=68.750, z=4.967
+I	05:47	MMA	Cmd	Train Marine
+I	05:48	Life	Cmd	Attack; target point: x=42.536, y=14.265, z=4.989
+I	05:48	Life	Cmd	Attack; target point: x=46.613, y=10.490, z=4.962
+I	05:48	MMA	Cmd	Build Barracks; target point: x=16.750, y=11.750, z=5.978
+I	05:49	Life	Cmd	Attack; target point: x=40.110, y=13.836, z=4.990
+I	05:49	MMA	Cmd	Lift Off
+I	05:50	MMA	Cmd	Build Reactor; target point: x=16.250, y=13.250, z=5.975
+I	05:51	MMA	Cmd	[Right click] ; target point: x=18.619, y=12.939, z=5.956
+I	05:51	Life	Cmd	Attack; target point: x=42.444, y=44.263, z=3.997
+I	05:51	MMA	Cmd	Train SCV
+I	05:51	MMA	Cmd	Train SCV
+I	05:52	Life	Cmd	[Right click] ; target point: x=46.521, y=8.149, z=4.955
+I	05:52	Life	Cmd	[Right click] ; target point: x=45.548, y=7.065, z=4.944
+I	05:52	Life	Cmd	[Right click] ; target point: x=45.788, y=8.016, z=4.951
+I	05:52	Life	Cmd	[Right click] ; target point: x=45.843, y=7.279, z=4.947
+I	05:53	MMA	Cmd	Build Barracks; target point: x=18.750, y=13.250, z=5.953
+I	05:53	MMA	Cmd	[Minimap] Attack; target point: x=57.860, y=28.279, z=3.997
+I	05:53	MMA	Cmd	Train SCV
+I	05:54	Life	Cmd	[Right click] ; target point: x=43.733, y=5.791, z=4.925
+I	05:54	Life	Cmd	[Right click] ; target point: x=43.579, y=5.589, z=4.923
+I	05:54	Life	Cmd	[Right click] ; target point: x=43.572, y=5.467, z=4.922
+I	05:54	Life	Cmd	[Right click] ; target point: x=43.324, y=5.382, z=4.919
+I	05:54	Life	Cmd	[Right click] ; target point: x=42.537, y=4.944, z=4.909
+I	05:55	Life	Cmd	[Right click] ; target point: x=40.836, y=5.094, z=4.898
+I	05:55	MMA	Cmd	[Minimap] Attack; target point: x=39.721, y=39.442, z=3.997
+I	05:55	Life	Cmd	Morph to Baneling
+I	05:55	MMA	Cmd	[Minimap] Attack; target point: x=45.860, y=29.116, z=4.997
+I	05:55	Life	Cmd	[Repeat] Morph to Baneling
+I	05:55	Life	Cmd	[Repeat] Morph to Baneling
+I	05:55	Life	Cmd	[Repeat] Morph to Baneling
+I	05:55	MMA	Cmd	[Minimap] Attack; target point: x=46.977, y=28.000, z=4.997
+I	05:55	Life	Cmd	[Repeat] Morph to Baneling
+I	05:55	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	Life	Cmd	[Repeat] Morph to Baneling
+I	05:56	MMA	Cmd	Attack; target point: x=41.584, y=14.387, z=4.990
+I	05:56	Life	Cmd	Morph to Baneling
+I	05:56	Life	Cmd	Morph to Baneling
+I	05:58	Life	Cmd	Morph to Zergling
+I	05:58	Life	Cmd	Morph to Zergling
+I	05:58	MMA	Cmd	Build Refinery; target unit: Cleaning Bot (tag=17l); target point: x=24.750, y=6.750, z=4.910
+I	05:59	MMA	Cmd	Build Refinery; target unit: Cleaning Bot (tag=175); target point: x=30.250, y=11.750, z=4.970
+I	06:00	MMA	Cmd	[Minimap] Attack; target point: x=46.140, y=28.558, z=4.997
+I	06:00	MMA	Cmd	[Minimap] Attack; target point: x=46.140, y=28.558, z=4.997
+I	06:01	Life	Cmd	[Minimap] Attack; target point: x=57.023, y=31.349, z=3.997
+I	06:01	Life	Cmd	[Minimap] Attack; target point: x=46.140, y=20.186, z=4.997
+I	06:01	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=1d); target point: x=11.500, y=8.250, z=5.994
+I	06:02	MMA	Cmd	Build Refinery; target unit: Cleaning Bot (tag=181); target point: x=13.250, y=7.750, z=5.988
+I	06:03	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	06:03	MMA	Cmd	[Right click] ; target point: x=8.873, y=19.243, z=5.945
+I	06:03	MMA	Cmd	Build Supply Depot; target point: x=8.000, y=18.500, z=5.940
+I	06:04	Life	Cmd	Morph to Zergling
+I	06:04	Life	Cmd	Morph to Zergling
+I	06:04	Life	Cmd	Morph to Zergling
+I	06:04	MMA	Cmd	[Queued] [Right click] ; target unit: Mineral Field (tag=35); target point: x=9.000, y=8.250, z=5.994
+I	06:04	Life	Cmd	Morph to Zergling
+I	06:04	Life	Cmd	Morph to Zergling
+I	06:04	MMA	Cmd	Train SCV
+I	06:05	MMA	Cmd	Train SCV
+I	06:05	MMA	Cmd	[Minimap] Attack; target point: x=44.186, y=44.186, z=4.370
+I	06:05	MMA	Cmd	Train SCV
+I	06:05	Life	Cmd	Morph to Baneling
+I	06:07	MMA	Cmd	[Right click] ; target point: x=28.346, y=13.950, z=4.972
+I	06:08	Life	Cmd	Morph to Zergling
+I	06:08	Life	Cmd	Morph to Zergling
+I	06:08	Life	Cmd	[Right click] ; target unit: Hellion (tag=3qp; owner=MMA); target point: x=41.346, y=34.015, z=4.992
+I	06:08	Life	Cmd	[Right click] ; target point: x=41.611, y=33.913, z=4.998
+I	06:08	MMA	Cmd	Build Supply Depot; target point: x=25.500, y=14.000, z=4.952
+I	06:08	Life	Cmd	[Right click] ; target point: x=42.644, y=33.308, z=4.997
+I	06:09	Life	Cmd	[Right click] ; target point: x=37.320, y=37.167, z=3.997
+I	06:09	Life	Cmd	[Right click] ; target point: x=33.644, y=37.019, z=3.997
+I	06:09	MMA	Cmd	Build Supply Depot; target point: x=28.000, y=14.000, z=4.971
+I	06:09	Life	Cmd	[Right click] ; target point: x=32.357, y=37.019, z=3.997
+I	06:10	Life	Cmd	[Right click] ; target point: x=30.036, y=34.951, z=3.997
+I	06:10	MMA	Cmd	Lower
+I	06:10	Life	Cmd	[Right click] [Minimap] ; target point: x=26.884, y=15.163, z=4.961
+I	06:11	MMA	Cmd	[Right click] [Minimap] ; target point: x=49.767, y=26.326, z=4.996
+I	06:11	Life	Cmd	[Right click] ; target point: x=28.324, y=14.601, z=4.972
+I	06:11	MMA	Cmd	[Right click] ; target point: x=23.375, y=30.039, z=3.997
+I	06:11	Life	Cmd	[Right click] ; target point: x=27.229, y=33.087, z=3.998
+I	06:11	MMA	Cmd	[Right click] [Minimap] ; target point: x=12.372, y=12.372, z=5.995
+I	06:12	Life	Cmd	Morph to Zergling
+I	06:12	MMA	Cmd	[Right click] [Minimap] ; target point: x=6.791, y=9.860, z=5.981
+I	06:12	Life	Cmd	Morph to Zergling
+I	06:12	MMA	Cmd	[Right click] [Minimap] ; target point: x=23.256, y=12.651, z=4.944
+I	06:12	Life	Cmd	[Right click] ; target unit: Xel'Naga Tower (tag=0); target point: x=25.000, y=35.500, z=3.996
+I	06:12	MMA	Cmd	[Right click] [Minimap] ; target point: x=23.535, y=13.488, z=4.938
+I	06:12	MMA	Cmd	[Minimap] Attack; target point: x=53.674, y=17.953, z=4.987
+I	06:12	Life	Cmd	Attack; target point: x=25.586, y=34.293, z=3.998
+I	06:12	MMA	Cmd	[Minimap] Attack; target point: x=47.256, y=16.000, z=4.965
+I	06:12	Life	Cmd	[Right click] ; target point: x=25.568, y=28.922, z=3.996
+I	06:12	MMA	Cmd	Train SCV
+I	06:13	MMA	Cmd	[Minimap] Attack; target point: x=45.023, y=14.326, z=4.980
+I	06:13	Life	Cmd	[Right click] ; target point: x=27.215, y=27.122, z=3.988
+I	06:13	Life	Cmd	[Right click] ; target point: x=27.526, y=24.429, z=4.012
+I	06:13	Life	Cmd	[Right click] ; target point: x=27.841, y=22.154, z=4.661
+I	06:14	Life	Cmd	[Right click] ; target point: x=27.400, y=12.307, z=4.964
+I	06:15	MMA	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:15	Life	Cmd	[Right click] ; target point: x=27.365, y=15.052, z=4.966
+I	06:15	Life	Cmd	[Right click] ; target point: x=26.692, y=15.259, z=4.959
+I	06:15	Life	Cmd	[Right click] ; target point: x=26.667, y=14.211, z=4.963
+I	06:16	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:16	Life	Cmd	[Right click] ; target point: x=26.180, y=14.559, z=4.962
+I	06:16	Life	Cmd	[Right click] ; target point: x=26.682, y=16.634, z=4.959
+I	06:16	Life	Cmd	[Right click] ; target point: x=26.346, y=15.119, z=4.958
+I	06:16	MMA	Cmd	Attack; target point: x=27.720, y=16.625, z=4.968
+I	06:16	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:16	Life	Cmd	[Right click] ; target point: x=27.011, y=15.980, z=4.961
+I	06:17	Life	Cmd	[Right click] ; target point: x=29.381, y=21.389, z=4.991
+I	06:17	MMA	Cmd	Attack; target point: x=26.815, y=16.461, z=4.960
+I	06:17	Life	Cmd	[Right click] ; target point: x=28.656, y=20.589, z=4.988
+I	06:17	MMA	Cmd	Raise
+I	06:17	Life	Cmd	[Right click] ; target point: x=26.376, y=18.210, z=4.965
+I	06:17	MMA	Cmd	[Right click] ; target point: x=24.463, y=17.135, z=4.937
+I	06:17	Life	Cmd	Attack; target point: x=25.912, y=18.393, z=4.964
+I	06:17	MMA	Cmd	[Right click] ; target point: x=24.473, y=17.105, z=4.937
+I	06:17	Life	Cmd	Morph to Zergling
+I	06:18	Life	Cmd	Morph to Zergling
+I	06:18	MMA	Cmd	[Right click] ; target point: x=24.785, y=15.663, z=4.935
+I	06:18	Life	Cmd	[Right click] ; target point: x=27.054, y=14.887, z=4.964
+I	06:18	MMA	Cmd	[Right click] ; target point: x=24.543, y=15.097, z=4.938
+I	06:18	MMA	Cmd	[Right click] ; target point: x=24.789, y=15.140, z=4.940
+I	06:18	MMA	Cmd	[Right click] ; target point: x=24.789, y=15.140, z=4.940
+I	06:19	Life	Cmd	[Right click] ; target point: x=24.457, y=10.826, z=4.942
+I	06:19	Life	Cmd	[Right click] ; target point: x=25.403, y=12.453, z=4.955
+I	06:19	Life	Cmd	Attack; target point: x=25.042, y=12.578, z=4.952
+I	06:19	MMA	Cmd	Attack; target point: x=27.796, y=16.420, z=4.968
+I	06:20	MMA	Cmd	[Right click] ; target point: x=24.036, y=11.759, z=4.943
+I	06:20	Life	Cmd	[Right click] ; target point: x=26.098, y=18.310, z=4.965
+I	06:20	Life	Cmd	[Right click] ; target point: x=27.327, y=21.403, z=4.796
+I	06:20	MMA	Cmd	[Right click] ; target point: x=24.048, y=11.722, z=4.943
+I	06:20	MMA	Cmd	Attack; target point: x=24.090, y=11.685, z=4.943
+I	06:20	MMA	Cmd	Train SCV
+I	06:21	MMA	Cmd	Train SCV
+I	06:21	Life	Cmd	[Right click] ; target point: x=33.067, y=18.939, z=4.998
+I	06:21	Life	Cmd	Attack; target point: x=33.778, y=17.777, z=4.997
+I	06:21	MMA	Cmd	Attack; target point: x=27.550, y=17.678, z=4.970
+I	06:21	Life	Cmd	Attack; target point: x=32.929, y=18.711, z=4.998
+I	06:21	Life	Cmd	Morph to Zergling
+I	06:21	MMA	Cmd	Train Marine
+I	06:22	Life	Cmd	[Right click] ; target point: x=26.670, y=13.006, z=4.964
+I	06:22	MMA	Cmd	[Right click] ; target point: x=23.463, y=10.179, z=4.935
+I	06:22	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:22	MMA	Cmd	[Right click] ; target point: x=24.215, y=10.818, z=4.941
+I	06:22	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:22	MMA	Cmd	Unload All
+I	06:22	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:22	MMA	Cmd	[Right click] ; target unit: Barracks (tag=429; owner=MMA); target point: x=16.750, y=11.750, z=5.978
+I	06:22	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:22	MMA	Cmd	[Right click] ; target point: x=20.865, y=11.580, z=5.622
+I	06:22	Life	Cmd	[Right click] ; target unit: Bunker (tag=3zl; owner=MMA); target point: x=26.750, y=13.750, z=4.963
+I	06:23	Life	Cmd	[Right click] ; target point: x=26.709, y=13.338, z=4.964
+I	06:23	MMA	Cmd	[Right click] ; target point: x=20.986, y=11.574, z=5.590
+I	06:23	Life	Cmd	[Right click] ; target unit: Marine (tag=3b6; owner=MMA); target point: x=25.476, y=12.390, z=4.954
+I	06:23	Life	Cmd	[Right click] ; target unit: Marine (tag=3b6; owner=MMA); target point: x=25.298, y=12.276, z=4.953
+I	06:23	MMA	Cmd	[Right click] ; target point: x=21.636, y=14.158, z=5.928
+I	06:23	Life	Cmd	[Right click] ; target point: x=23.094, y=11.844, z=4.941
+I	06:23	MMA	Cmd	[Right click] ; target point: x=38.510, y=15.326, z=4.997
+I	06:23	MMA	Cmd	[Right click] ; target point: x=41.553, y=15.121, z=4.994
+I	06:24	Life	Cmd	Morph to Zergling
+I	06:24	MMA	Cmd	[Right click] ; target point: x=40.424, y=14.665, z=4.993
+I	06:24	Life	Cmd	Morph to Zergling
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.526, y=14.474, z=4.994
+I	06:24	Life	Cmd	[Right click] ; target point: x=22.928, y=10.454, z=4.936
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.393, y=14.462, z=4.994
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.690, y=14.177, z=4.993
+I	06:24	Life	Cmd	[Right click] ; target point: x=23.524, y=9.568, z=4.931
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.760, y=14.047, z=4.992
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.821, y=13.960, z=4.991
+I	06:24	MMA	Cmd	[Right click] ; target point: x=39.821, y=13.960, z=4.991
+I	06:24	Life	Cmd	[Right click] ; target point: x=23.218, y=10.305, z=4.935
+I	06:25	MMA	Cmd	Attack; target point: x=40.146, y=13.950, z=4.991
+I	06:25	Life	Cmd	Attack; target point: x=20.869, y=10.447, z=5.171
+I	06:25	Life	Cmd	Morph to Zergling
+I	06:25	MMA	Cmd	[Right click] ; target point: x=40.908, y=14.665, z=4.993
+I	06:25	Life	Cmd	Morph to Zergling
+I	06:25	Life	Cmd	[Right click] ; target point: x=20.592, y=11.005, z=5.555
+I	06:26	Life	Cmd	[Right click] ; target point: x=20.580, y=11.690, z=5.723
+I	06:26	MMA	Cmd	Train Marine
+I	06:26	Life	Cmd	[Right click] ; target point: x=18.011, y=13.510, z=5.957
+I	06:26	Life	Cmd	[Right click] ; target point: x=15.532, y=13.812, z=5.978
+I	06:26	Life	Cmd	[Right click] ; target point: x=16.867, y=14.439, z=5.961
+I	06:26	MMA	Cmd	Attack; target point: x=23.937, y=14.038, z=4.938
+I	06:26	Life	Cmd	[Right click] ; target point: x=16.281, y=17.159, z=5.936
+I	06:26	Life	Cmd	[Right click] ; target point: x=17.538, y=15.454, z=5.943
+I	06:26	MMA	Cmd	Raise
+I	06:26	Life	Cmd	[Right click] ; target point: x=19.678, y=15.965, z=5.926
+I	06:27	MMA	Cmd	Raise
+I	06:27	Life	Cmd	Attack; target point: x=20.839, y=15.599, z=5.918
+I	06:27	Life	Cmd	[Right click] ; target point: x=21.031, y=15.353, z=5.920
+I	06:27	MMA	Cmd	Train SCV
+I	06:27	Life	Cmd	Attack; target point: x=22.157, y=15.005, z=5.919
+I	06:27	MMA	Cmd	[Right click] ; target point: x=20.796, y=15.538, z=5.915
+I	06:28	MMA	Cmd	[Right click] ; target point: x=20.797, y=15.503, z=5.916
+I	06:28	Life	Cmd	Morph to Zergling
+I	06:28	MMA	Cmd	Train SCV
+I	06:28	Life	Cmd	[Right click] ; target point: x=26.205, y=8.189, z=4.929
+I	06:28	Life	Cmd	[Right click] ; target point: x=28.636, y=8.923, z=4.945
+I	06:28	Life	Cmd	[Right click] ; target point: x=29.254, y=9.160, z=4.948
+I	06:28	MMA	Cmd	[Right click] ; target point: x=31.435, y=17.233, z=4.992
+I	06:28	Life	Cmd	Morph to Zergling
+I	06:28	Life	Cmd	Morph to Zergling
+I	06:29	Life	Cmd	Morph to Zergling
+I	06:29	Life	Cmd	Morph to Zergling
+I	06:29	MMA	Cmd	[Right click] ; target point: x=35.794, y=17.416, z=4.998
+I	06:29	Life	Cmd	Attack; target point: x=30.095, y=11.005, z=4.966
+I	06:29	MMA	Cmd	[Right click] ; target point: x=35.971, y=17.328, z=4.998
+I	06:30	Life	Cmd	Attack; target unit: Refinery (tag=4bl; owner=MMA); target point: x=30.250, y=11.750, z=4.970
+I	06:30	Life	Cmd	Attack; target point: x=27.540, y=13.341, z=4.969
+I	06:30	MMA	Cmd	[Right click] ; target point: x=25.670, y=11.959, z=4.955
+I	06:30	Life	Cmd	[Right click] ; target point: x=23.179, y=13.217, z=4.939
+I	06:30	MMA	Cmd	Cancel
+I	06:30	Life	Cmd	[Right click] ; target point: x=26.730, y=15.515, z=4.959
+I	06:31	MMA	Cmd	[Right click] ; target point: x=22.406, y=11.765, z=5.337
+I	06:31	MMA	Cmd	[Right click] ; target point: x=23.086, y=12.163, z=4.941
+I	06:31	MMA	Cmd	Attack; target point: x=23.986, y=11.979, z=4.944
+I	06:31	MMA	Cmd	[Right click] ; target point: x=23.188, y=17.639, z=4.928
+I	06:31	MMA	Cmd	[Right click] ; target point: x=23.234, y=17.443, z=4.925
+I	06:32	Life	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	06:32	Life	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	06:32	Life	Cmd	Morph to Zergling
+I	06:32	MMA	Cmd	[Right click] ; target point: x=21.507, y=14.340, z=5.927
+I	06:32	Life	Cmd	Morph to Zergling
+I	06:32	MMA	Cmd	[Right click] ; target point: x=21.507, y=14.340, z=5.927
+I	06:32	Life	Cmd	Morph to Baneling
+I	06:33	Life	Cmd	Morph to Baneling
+I	06:33	Life	Cmd	Morph to Baneling
+I	06:33	MMA	Cmd	Build Hellion
+I	06:33	Life	Cmd	Morph to Baneling
+I	06:33	MMA	Cmd	Build Hellion
+I	06:33	MMA	Cmd	[Right click] ; target point: x=14.657, y=9.720, z=5.990
+I	06:33	MMA	Cmd	[Right click] ; target point: x=18.989, y=10.990, z=5.953
+I	06:34	Life	Cmd	[Right click] ; target unit: MULE (tag=3wi; owner=MMA); target point: x=24.800, y=16.777, z=4.937
+I	06:34	MMA	Cmd	[Right click] ; target point: x=20.007, y=11.546, z=5.539
+I	06:34	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:34	Life	Cmd	[Right click] ; target unit: SCV (tag=401; owner=MMA); target point: x=24.317, y=16.770, z=4.931
+I	06:34	Life	Cmd	[Right click] ; target unit: SCV (tag=38i; owner=MMA); target point: x=24.345, y=16.667, z=4.930
+I	06:34	Life	Cmd	[Right click] ; target unit: SCV (tag=3sx; owner=MMA); target point: x=24.273, y=16.509, z=4.928
+I	06:34	Life	Cmd	[Right click] ; target unit: SCV (tag=38i; owner=MMA); target point: x=23.934, y=16.962, z=4.927
+I	06:34	Life	Cmd	Explode
+I	06:34	MMA	Cmd	[Right click] ; target point: x=21.375, y=15.100, z=5.918
+I	06:35	MMA	Cmd	[Right click] ; target point: x=20.863, y=14.239, z=5.931
+I	06:35	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	06:35	Life	Cmd	[Right click] ; target point: x=20.488, y=11.254, z=5.738
+I	06:35	MMA	Cmd	Train Marine
+I	06:35	Life	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	06:36	Life	Cmd	[Right click] ; target unit: Reactor (tag=2ib; owner=MMA); target point: x=20.000, y=13.000, z=5.945
+I	06:36	MMA	Cmd	[Right click] ; target point: x=25.233, y=16.503, z=4.942
+I	06:36	MMA	Cmd	[Right click] ; target point: x=25.917, y=16.281, z=4.950
+I	06:36	MMA	Cmd	[Right click] ; target point: x=26.488, y=15.440, z=4.956
+I	06:36	MMA	Cmd	[Right click] ; target point: x=25.567, y=11.475, z=4.951
+I	06:37	MMA	Cmd	Train Marine
+I	06:37	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:37	Life	Cmd	[Right click] ; target unit: Zergling (tag=2k5; owner=Life); target point: x=20.132, y=12.338, z=5.932
+I	06:37	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:37	Life	Cmd	[Right click] ; target unit: Zergling (tag=2k5; owner=Life); target point: x=20.125, y=12.344, z=5.933
+I	06:38	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:38	Life	Cmd	[Right click] ; target unit: Baneling (tag=2di; owner=Life); target point: x=20.156, y=12.033, z=5.908
+I	06:38	Life	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:38	Life	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:38	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	06:38	Life	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:38	MMA	Cmd	[Right click] ; target point: x=21.665, y=13.691, z=5.933
+I	06:38	Life	Cmd	Explode
+I	06:38	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	06:38	Life	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:38	MMA	Cmd	[Right click] ; target unit: Barracks (tag=28x; owner=MMA); target point: x=18.750, y=14.750, z=5.938
+I	06:39	MMA	Cmd	[Right click] ; target point: x=17.337, y=15.682, z=5.943
+I	06:39	Life	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:39	Life	Cmd	Morph to Zergling
+I	06:39	Life	Cmd	Morph to Zergling
+I	06:39	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:39	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:40	Life	Cmd	Attack; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:40	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:40	Life	Cmd	Morph to Zergling
+I	06:40	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=1z7; owner=MMA); target point: x=19.500, y=12.000, z=5.951
+I	06:40	Life	Cmd	Morph to Zergling
+I	06:40	Life	Cmd	Explode
+I	06:41	MMA	Cmd	[Right click] ; target unit: Zergling (tag=3v6; owner=Life); target point: x=19.396, y=11.617, z=5.957
+I	06:41	Life	Cmd	Morph to Zergling
+I	06:41	MMA	Cmd	[Right click] ; target point: x=19.544, y=11.863, z=5.951
+I	06:41	Life	Cmd	[Right click] ; target point: x=23.159, y=11.350, z=4.940
+I	06:41	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	06:41	MMA	Cmd	[Right click] ; target unit: Supply Depot (tag=2c2; owner=MMA); target point: x=21.000, y=13.500, z=5.945
+I	06:42	MMA	Cmd	Train Marine
+I	06:42	Life	Cmd	Attack; target point: x=19.397, y=10.740, z=5.948
+I	06:42	MMA	Cmd	[Right click] ; target point: x=22.327, y=11.667, z=5.275
+I	06:42	Life	Cmd	Attack; target point: x=19.621, y=11.017, z=5.705
+I	06:42	MMA	Cmd	[Right click] ; target point: x=21.535, y=11.466, z=5.424
+I	06:42	MMA	Cmd	[Right click] ; target point: x=20.932, y=11.192, z=5.507
+I	06:43	MMA	Cmd	[Right click] ; target point: x=21.190, y=11.095, z=5.417
+I	06:43	MMA	Cmd	[Right click] ; target point: x=21.024, y=11.323, z=5.517
+I	06:43	MMA	Cmd	[Right click] ; target unit: Barracks (tag=429; owner=MMA); target point: x=16.750, y=11.750, z=5.978
+I	06:43	Life	Cmd	[Right click] ; target point: x=21.598, y=10.197, z=5.115
+I	06:43	MMA	Cmd	[Right click] ; target unit: Barracks (tag=429; owner=MMA); target point: x=16.750, y=11.750, z=5.978
+I	06:43	Life	Cmd	[Right click] ; target point: x=21.596, y=10.986, z=5.286
+I	06:44	MMA	Cmd	[Right click] ; target point: x=17.681, y=11.145, z=5.971
+I	06:44	MMA	Cmd	[Right click] ; target point: x=17.985, y=11.013, z=5.966
+I	06:44	Life	Cmd	[Right click] ; target point: x=18.900, y=8.853, z=5.929
+I	06:44	Life	Cmd	[Right click] ; target point: x=18.814, y=10.784, z=5.953
+I	06:44	MMA	Cmd	[Right click] ; target point: x=13.214, y=12.831, z=5.995
+I	06:45	Life	Cmd	[Right click] ; target unit: SCV (tag=4df; owner=MMA); target point: x=20.592, y=15.161, z=5.919
+I	06:45	MMA	Cmd	Build Hellion
+I	06:45	Life	Cmd	Attack; target unit: SCV (tag=3sx; owner=MMA); target point: x=20.851, y=11.545, z=5.633
+I	06:45	MMA	Cmd	Build Hellion
+I	06:45	MMA	Cmd	[Right click] ; target point: x=16.753, y=15.248, z=5.954
+I	06:45	MMA	Cmd	[Right click] ; target point: x=16.753, y=15.248, z=5.954
+I	06:46	Life	Cmd	Morph to Zergling
+I	06:46	Life	Cmd	Morph to Zergling
+I	06:46	Life	Cmd	Stop
+I	06:46	Life	Cmd	[Right click] ; target unit: SCV (tag=342; owner=MMA); target point: x=18.004, y=10.973, z=5.961
+I	06:46	MMA	Cmd	[Right click] ; target point: x=11.012, y=13.492, z=5.984
+I	06:46	Life	Cmd	[Right click] ; target point: x=18.773, y=11.067, z=5.955
+I	06:47	MMA	Cmd	[Right click] ; target point: x=12.189, y=13.457, z=5.989
+I	06:47	MMA	Cmd	[Right click] ; target point: x=13.008, y=13.322, z=5.992
+I	06:47	MMA	Cmd	[Right click] ; target point: x=13.008, y=13.322, z=5.992
+I	06:47	Life	Cmd	[Right click] ; target unit: Factory (tag=2kx; owner=MMA); target point: x=16.250, y=13.250, z=5.976
+I	06:48	Life	Cmd	[Right click] ; target point: x=13.854, y=14.346, z=5.982
+I	06:48	Life	Cmd	[Right click] ; target point: x=13.744, y=14.636, z=5.980
+I	06:48	Life	Cmd	Morph to Zergling
+I	06:48	Life	Cmd	Morph to Zergling
+I	06:49	MMA	Cmd	[Right click] ; target point: x=10.446, y=14.079, z=5.977
+I	06:49	MMA	Cmd	[Right click] ; target point: x=12.162, y=16.499, z=5.965
+I	06:49	Life	Cmd	[Right click] ; target point: x=8.436, y=14.151, z=5.960
+I	06:49	MMA	Cmd	[Right click] ; target point: x=15.293, y=17.140, z=5.945
+I	06:50	MMA	Cmd	[Right click] ; target point: x=15.909, y=21.872, z=3.896
+I	06:50	Life	Cmd	Attack; target point: x=14.790, y=16.822, z=5.953
+I	06:51	MMA	Cmd	[Minimap] Scanner Sweep; target point: x=26.047, y=68.744, z=4.968
+I	06:51	Life	Cmd	[Right click] ; target point: x=15.618, y=11.561, z=5.983
+I	06:51	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=1yp; owner=Life); target point: x=56.750, y=68.750, z=5.995
+I	06:51	MMA	Cmd	[Minimap] Scanner Sweep; target point: x=40.000, y=69.023, z=4.949
+I	06:52	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=2cx; owner=Life); target point: x=41.250, y=69.750, z=4.948
+I	06:52	Life	Cmd	Spawn Larvae; target unit: Hatchery (tag=31d; owner=Life); target point: x=26.250, y=68.750, z=4.967
+I	06:52	MMA	Cmd	[Right click] [Minimap] ; target point: x=41.116, y=29.674, z=4.995
+I	06:53	Life	Cmd	[Right click] ; target point: x=18.724, y=11.418, z=5.957
+I	06:53	MMA	Cmd	[Right click] ; target unit: SCV (tag=3sh; owner=MMA); target point: x=25.344, y=7.792, z=4.923
+I	06:53	MMA	Cmd	[Right click] ; target point: x=27.301, y=7.595, z=4.931
+I	06:53	Life	Cmd	[Right click] ; target point: x=19.532, y=10.444, z=5.980
+I	06:53	MMA	Cmd	[Right click] ; target point: x=27.088, y=7.474, z=4.929
+I	06:53	MMA	Cmd	[Right click] ; target unit: Mineral Field (tag=4x); target point: x=26.500, y=7.250, z=4.924
+I	06:54	Life	Cmd	[Right click] ; target point: x=30.177, y=9.514, z=4.952
+I	06:55	Life	Cmd	Attack; target point: x=28.885, y=11.937, z=4.967
+I	06:55	Life	Cmd	Attack; target unit: SCV (tag=32s; owner=MMA); target point: x=28.281, y=10.903, z=4.957

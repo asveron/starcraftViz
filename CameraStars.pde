@@ -14,7 +14,7 @@ class CameraStars
   CameraStars (Vec2 centralPoint)
   {
     cameraPositions = loadStrings("cameraPositions.txt");
-    time = 0;
+    time = 60 * 10;
     this.centralPoint = centralPoint;
     
     averageX=0;
